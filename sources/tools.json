@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "4s0ftj_tupianyasuo",
+    "name": "图片压缩",
+    "tool_intro_usage": "图片压缩是一款轻量级的图像压缩工具，图片压缩能够智能识别图像中的每一个元素，并对它们进行高效的压缩和优化。图片压缩还具有简单易用的界面，让你轻松地将大幅图像转换为小巧玲珑的图片。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_xZTks4xOtEs.png",
+    "logo_local_path": "logo_imgs/tupianyasuo.png",
+    "detail_page_url": "https://tool.browser.qq.com/tupianyasuo.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:01.978965",
+    "status": "done"
+  },
+  {
+    "id": "4b2t9m_id_photo",
+    "name": "证件照生成",
+    "tool_intro_usage": "相片生成证件照工具是一款帮助用户快速生成高质量证件照的工具。证件照生成证件照工具拥有一个简单易用的界面，用户不需要具备专业的计算机技能就可以轻松上手。证件照生成证件照工具适用于各种场景和需求，例如结婚登记、签证办理、学校报名等。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_PicDW76zOu0.png",
+    "logo_local_path": "logo_imgs/id_photo.png",
+    "detail_page_url": "https://tool.browser.qq.com/id_photo.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:05.076252",
+    "status": "todo"
+  },
+  {
+    "id": "az01ms_identification",
+    "name": "身份证识别",
+    "tool_intro_usage": "身份证识别工具是一种利用图片识别证件照并给出身份证相关内容的工具，身份证识别工具通过光学识别字（OCR）技术提取证件上，包括姓名、身份证号码、出生日期等信息1、点击“选择文件”按钮，以上传您的身份证图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、选择识别身份证的主页或者副业，点击“识别”按钮开始识别4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_MDUSYoySEto.png",
+    "logo_local_path": "logo_imgs/identification.png",
+    "detail_page_url": "https://tool.browser.qq.com/identification.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:08.169272",
+    "status": "todo"
+  },
+  {
+    "id": "ysgl0b_bankcard_ocr",
+    "name": "银行卡识别",
+    "tool_intro_usage": "银行卡轻松读！采用尖端银行卡识别技术，快速准确提取中国大陆主流银行卡的关键信息，包括卡号、银行名称及有效期等。安全可靠，提升金融操作的便捷性和效率。您的理财好帮手，信赖之选。1、点击“选择文件”按钮，以上传您的银行卡图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别银行卡4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_p6IqOrvMTTm.png",
+    "logo_local_path": "logo_imgs/bankcard_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/bankcard_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:11.263633",
+    "status": "todo"
+  },
+  {
+    "id": "kw2jrf_basic_ocr",
+    "name": "印刷体识别",
+    "tool_intro_usage": "印刷文字，智能捕获！印刷体识别工具，让图片中的文字转化为可编辑格式变得轻而易举。精确识别，无论字体大小或风格，确保信息无缝转录。快速、高效，为您节省宝贵时间。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_gdTQ79oWKTn.png",
+    "logo_local_path": "logo_imgs/basic_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/basic_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:14.391051",
+    "status": "todo"
+  },
+  {
+    "id": "vbiv8e_handwriting_ocr",
+    "name": "手写体识别",
+    "tool_intro_usage": "手写文字，一扫即识！体验先进的手写体识别工具，轻松转换图片中的手写笔迹为可编辑文本。无论笔画多么复杂，我们都能精准捕捉，让信息输入变得简单快捷。告别手动输入，拥抱智能便捷生活！1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_a8OQJaksJMc.png",
+    "logo_local_path": "logo_imgs/handwriting_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/handwriting_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:17.494163",
+    "status": "todo"
+  },
+  {
+    "id": "0hauc8_ocr_advertise",
+    "name": "广告体识别",
+    "tool_intro_usage": "广告内文，一目了然！广告体识别工具，擅长捕捉商品图片中的文字信息，无论中英文、横排竖排，甚至是旋转倾斜的场景，都能精确返回文本位置和内容。提升广告分析效率，助力营销策略精准定位。广告智能化，触手可及。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_2eOmgWGyJDL.png",
+    "logo_local_path": "logo_imgs/ocr_advertise.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_advertise.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:20.586535",
+    "status": "todo"
+  },
+  {
+    "id": "t5owmf_ocr_english",
+    "name": "英语识别",
+    "tool_intro_usage": "英文掌握，智能无界！英语识别工具，精通图像中英文文字的智能检测与识别。无论是印刷体还是手写体，从简单数字到复杂字符，我们都能准确捕捉并返回文字位置和内容。多场景适应，让英文信息提取变得轻松自如。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Q-cyIoIcQ0H.png",
+    "logo_local_path": "logo_imgs/ocr_english.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_english.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:23.710115",
+    "status": "todo"
+  },
+  {
+    "id": "6q7cdn_passport_ocr",
+    "name": "护照识别",
+    "tool_intro_usage": "全球通行，一扫即知！护照识别工具，专业支持中国大陆及港澳台地区，乃至全球各国护照个人资料页的精准识别。多字段检测，快速获取关键信息，让边境通关、信息录入变得轻松高效。安全出行，从智能开始。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_GYwZHyY-y29.png",
+    "logo_local_path": "logo_imgs/passport_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/passport_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:26.799165",
+    "status": "todo"
+  },
+  {
+    "id": "442cra_waybill",
+    "name": "运单识别",
+    "tool_intro_usage": "运单管理，智能化简！运单识别工具，轻松读取主流电子运单格式，精确提取收寄件人信息、联系电话、地址及运单号等关键数据。无论是快递物流还是仓储管理，我们都能提高您的工作效率，简化流程。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_bwWAk_LMCMt.png",
+    "logo_local_path": "logo_imgs/waybill.png",
+    "detail_page_url": "https://tool.browser.qq.com/waybill.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:29.922229",
+    "status": "todo"
+  },
+  {
+    "id": "4yqmfa_container_ocr",
+    "name": "集装箱识别",
+    "tool_intro_usage": "物流优化，智能加速！集装箱识别工具，专业解读箱门信息，全面识别箱号、类型、重量数据等关键字段。即使在信息不完整或模糊的情况下，也能提供准确告警。提升货运效率，保障物流安全，是您物流管理的得力助手。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_uj0bsNcBTDj.png",
+    "logo_local_path": "logo_imgs/container_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/container_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:33.009692",
+    "status": "todo"
+  },
+  {
+    "id": "y9zl2y_carcard_ocr",
+    "name": "车辆证件识别",
+    "tool_intro_usage": "车证一扫，信息全掌握！车辆证件识别工具，精准定位并识别驾驶证、行驶证及机动车登记证书的所有关键字段。从证号到发证单位，从号牌号码到发证日期，每一项数据都不放过。简化车辆管理流程，提升行政效率，确保交通安全。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，选择您的证件类型。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_yiqwLoLgNr3.png",
+    "logo_local_path": "logo_imgs/carcard_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/carcard_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:36.116678",
+    "status": "todo"
+  },
+  {
+    "id": "rd4d5z_ocr_bizLicense",
+    "name": "营业执照识别",
+    "tool_intro_usage": "企业信任，智能验证！营业执照识别工具，迅速准确捕获执照上的关键信息，如注册号、公司名、地址、法人、注册资本、成立日期及经营范围等。简化企业核查流程，确保合规性，是您商务审查的可靠伙伴。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_zV9iRXwqljo.png",
+    "logo_local_path": "logo_imgs/ocr_bizLicense.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_bizLicense.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:39.233949",
+    "status": "todo"
+  },
+  {
+    "id": "6km8oq_ocr_businesscard",
+    "name": "名片识别",
+    "tool_intro_usage": "商务互联，智能捕捉！名片识别工具，自动定位并精确识别名片上的各项信息，包括姓名、联系电话、邮箱、公司名称、部门、职位、网址、地址及社交账号等。快速转化为数字信息，助力您的商务网络扩展，提升效率。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Xa-mAIuWkev.png",
+    "logo_local_path": "logo_imgs/ocr_businesscard.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_businesscard.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:42.327062",
+    "status": "todo"
+  },
+  {
+    "id": "ogdr49_ocr_permit",
+    "name": "港澳台证件识别",
+    "tool_intro_usage": "跨境通行，智能辨识！港澳台证件识别工具，专业支持卡式通行证的全面识别，涵盖签发地、机关、有效期、性别、生日、英文名、姓名、证号等字段。无论是港澳来往内地通行证、台湾居民通行证，还是港澳台居住证，我们都能提供精确的信息读取，简化您的行政管理和服务流程。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_FXfdcVXdRZY.png",
+    "logo_local_path": "logo_imgs/ocr_permit.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_permit.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:45.415357",
+    "status": "todo"
+  },
+  {
+    "id": "vxyqjr_bankslip_ocr",
+    "name": "银行回单识别",
+    "tool_intro_usage": "财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_g57mKU79Tuo.png",
+    "logo_local_path": "logo_imgs/bankslip_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/bankslip_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:48.503443",
+    "status": "todo"
+  },
+  {
+    "id": "mug26e_ocr_dutypaidproof",
+    "name": "完税证明识别",
+    "tool_intro_usage": "税务处理，智能化简！完税证明识别工具，迅速读取并核实证明文件上的关键税务信息，如税种、金额、缴税日期等。确保税务记录的准确性与合规性，为企业和个人提供便捷的税务管理解决方案。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_S-E4c3DYRyj.png",
+    "logo_local_path": "logo_imgs/ocr_dutypaidproof.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_dutypaidproof.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:51.590851",
+    "status": "todo"
+  },
+  {
+    "id": "6imw0x_ocr_recognize_medical_invoice",
+    "name": "医疗票据识别",
+    "tool_intro_usage": "医疗报销更轻松，医疗票据识别工具，专业解析各类医疗票据，自动提取费用、项目、日期等信息。一键上传，即刻识别，简化报销流程，是个人和企业医疗费用管理的高效助手。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_t1whl3o9wW0.png",
+    "logo_local_path": "logo_imgs/ocr_recognize_medical_invoice.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr_recognize_medical_invoice.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:54.686093",
+    "status": "todo"
+  },
+  {
+    "id": "0s2xhi_onlinetaxi_ocr",
+    "name": "网约车行程单识别",
+    "tool_intro_usage": "财务核对快人一步，银行回单识别工具，精确捕获回单上的交易详情，包括账号、金额、时间等关键信息。自动化处理，提升财务效率，确保账务准确无误，是企业财务管理的强大助手。1、点击“选择文件”按钮，以上传您需要识别的图片。2、图片上传完成后，工具会自动扫描图片中的信息。3、点击“识别文字”按钮开始识别。4、处理完成后，你可将将识别后的文字进行复制。",
+    "tags": [
+      "free"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_WKT3mAAqfwa.png",
+    "logo_local_path": "logo_imgs/onlinetaxi_ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/onlinetaxi_ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:27:57.798629",
+    "status": "todo"
+  },
+  {
+    "id": "nkhwjm_face_age_transformation",
+    "name": "人脸年龄选择",
+    "tool_intro_usage": "人脸年龄选择是一款根据自己照片来改变年龄的在线工具，是一种基于人脸图像的年龄的计算方法。用户可以根据工具随心调节照片来获取自己不同年龄的容貌，是一款很不错的图片处理工具。1、点击“上传文件”按钮或将包含人脸的图像文件（如JPG、PNG等）拖放到指定区域，以上传您需要处理的图像。2、拖动滑块选择您希望处理的年龄段。3、点击开始处理，系统开始转变图像中人物的年龄4、处理完成后，你可将转换后的图像保存到您的设备。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_YXiLGmnemJ8.png",
+    "logo_local_path": "logo_imgs/face_age_transformation.png",
+    "detail_page_url": "https://tool.browser.qq.com/face_age_transformation.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:00.888707",
+    "status": "todo"
+  },
+  {
+    "id": "rb3r2s_img_edit_canvas",
+    "name": "图片编辑器",
+    "tool_intro_usage": "图片编辑器集合了多种实用的功能，包括图片裁剪、图片滤镜、图片旋转、图片翻转、图片画图、图片添加文字等。1、点击“上传图片”按钮或将图片文件（如JPG、PNG等）拖放到指定区域，以上传您需要编辑的图片。2、上传完成后，您将看到一个编辑界面，包含多种编辑工具和选项。3、完成所有编辑后，点击“保存”或“下载”按钮，将编辑好的图片保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_NWG81zAVmZN.png",
+    "logo_local_path": "logo_imgs/img_edit_canvas.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_edit_canvas.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:03.983669",
+    "status": "todo"
+  },
+  {
+    "id": "wr04dw_ocr",
+    "name": "提取文字",
+    "tool_intro_usage": "是一款专业的照片提取文字软件，可以将任何类型的照片(包括证件照、风景照、人物照等)中的文本进行提取并保存到电脑中。它提供了多种提取模式和算法，可以准确识别照片中的文字。使得照片提取文字更加快捷、方便、灵活。1、点击“选择文件”按钮，选择您需要提取文字的图片，或将文件拖放到指定区域。2、点击“提取文字”按钮，工具会提取图片上的文字3、提取成功后，可以将文字进行复制。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_c-sOAdeCipd.png",
+    "logo_local_path": "logo_imgs/ocr.png",
+    "detail_page_url": "https://tool.browser.qq.com/ocr.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:07.083574",
+    "status": "todo"
+  },
+  {
+    "id": "v2vmr9_img_2_text",
+    "name": "图片转字符画",
+    "tool_intro_usage": "图片转字符画可以将任意图片转换为由字符组成的艺术作品，适用于社交媒体分享、个性化设计和编程项目等多种场景。字符画不仅独特，还能为您的作品增添创意和趣味。1、点击“选择文件”按钮，选择您需要转换的图片文件（如JPG、PNG等），或将文件拖放到指定区域。2、确认所有设置无误后，点击“开始转换”按钮，工具会自动将图片转换为字符画。3、转换完成后，工具会显示生成的字符画。您可以点击“复制”按钮，将字符画复制下来。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_chCqBm1psyi.png",
+    "logo_local_path": "logo_imgs/img_2_text.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_2_text.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:10.197107",
+    "status": "todo"
+  },
+  {
+    "id": "01zxl7_face_gender_transformation",
+    "name": "人脸性别转换",
+    "tool_intro_usage": "人脸性别转换是一款先进的在线工具，专为将人脸照片进行性别转换而设计。通过利用深度学习和图像处理技术，这款工具能够将照片中的人脸转换为另一性别的样貌，生成逼真的转换效果。无论是用于娱乐、创意设计，还是研究分析，人脸性别转换工具都能满足您的需求。1、 点击“选择文件”按钮，选择您需要转换的人脸照片（如JPG、PNG等），或将文件拖放到指定区域。2、选择您要转换的性别，点击转换按钮进行转换。3、转换成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_9O4o8MdD16e.png",
+    "logo_local_path": "logo_imgs/face_gender_transformation.png",
+    "detail_page_url": "https://tool.browser.qq.com/face_gender_transformation.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:13.295645",
+    "status": "todo"
+  },
+  {
+    "id": "ci0203_img_enlarge",
+    "name": "增加图片大小",
+    "tool_intro_usage": "增加图片大小是一款实用的在线工具，专为放大和调整图片尺寸而设计。通过这款工具，您可以轻松放大图片的大小，同时尽量保持图片的清晰度和质量。无论是用于打印、设计项目，还是社交媒体发布，增加图片大小工具都能满足您的需求。访问工具页面： 打开浏览器，进入增加图片大小工具的在线页面。1、 点击“选择文件”按钮，选择您希望放大的图片文件（支持JPG、PNG等格式），或将图片文件拖放到指定区域进行上传。2、上传完成后，设置您希望增加的图片尺寸。您可以选择放大比例（如2倍、4倍等）。3、点击“开始处理”放大图片，完成后可下载到您的电脑。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_oK3Pt3u4-vI.png",
+    "logo_local_path": "logo_imgs/img_enlarge.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_enlarge.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:16.396697",
+    "status": "todo"
+  },
+  {
+    "id": "wqebsw_invoice_extract",
+    "name": "发票提取",
+    "tool_intro_usage": "发票提取是一款高效的在线工具，从pdf或图片中提取发票信息并导出为excel。工具通过先进的光学字符识别（OCR）技术，这款工具能够自动识别并提取发票中的重要数据，如发票号码、日期、金额、供应商信息等，极大地提高了数据录入和管理的效率。1、点“上传文件” 上传您的发票，文件支持图片和PDF格式。2、点击“开始提取”按钮，工具会自动进行OCR处理，并提取发票中的关键信息。3、提取完成后，工具会显示识别出的发票信息。您可以查看并校对提取结果，确保数据准确无误。4、 确认提取结果无误后，点击“下载”按钮，文件会以Excel格式的文件保存到您的设备。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HLmoKFPY1_u.png",
+    "logo_local_path": "logo_imgs/invoice_extract.png",
+    "detail_page_url": "https://tool.browser.qq.com/invoice_extract.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:19.511801",
+    "status": "todo"
+  },
+  {
+    "id": "gwsjpz_img_anime_filter",
+    "name": "图片日漫滤镜",
+    "tool_intro_usage": "图片日漫滤镜是一款有趣且实用的在线工具，专为将普通照片转换为具有日漫风格的图片而设计。通过这款工具，您可以轻松为照片添加日漫滤镜效果，使其呈现出独特的漫画风格。1、点击“选择文件”按钮，选择您需要转换的图片文件（如JPG、PNG等），或将文件拖放到指定区域。2、文件上传完成后，点击“确认”按钮，图片会转换成日漫滤镜风格。3、转换成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_gJN5-ADcKpP.png",
+    "logo_local_path": "logo_imgs/img_anime_filter.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_anime_filter.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:22.675299",
+    "status": "todo"
+  },
+  {
+    "id": "lzzarw_img_face_anime",
+    "name": "头像二次元",
+    "tool_intro_usage": "头像二次元是一款有趣的在线工具，专为将普通头像照片转换为二次元风格的图片而设计。通过先进的图像处理和风格转换技术，这款工具能够将您的头像照片转换为具有二次元动漫风格的图像，使其更加生动和个性化。1、点击“选择文件”按钮，选择您需要转换的头像照片（如JPG、PNG等），或将文件拖放到指定区域。2、文件上传完成后，选择您希望处理的效果。3、选择好处理效果之后，点击“确认”按钮，图片会转换成二次元头像风格。4、转换成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_SWw-MSqk9IR.png",
+    "logo_local_path": "logo_imgs/img_face_anime.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_face_anime.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:25.775008",
+    "status": "todo"
+  },
+  {
+    "id": "ubn9i2_img_module_face_stylize",
+    "name": "美化你的头像",
+    "tool_intro_usage": "美化你的头像是一款功能强大的在线工具，通过这款工具，您可以选择喜欢的效果轻松对头像进行美化处理。1、点击“选择文件”按钮，选择您需要美化的头像照片（如JPG、PNG等），或将文件拖放到指定区域。2、文件上传完成后，选择您希望处理的效果。3、选择好处理效果之后，点击“确认”按钮，系统会一键美化您的头像。4、美化成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_jy_r0gnz3Zo.png",
+    "logo_local_path": "logo_imgs/img_module_face_stylize.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_module_face_stylize.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:28.884380",
+    "status": "todo"
+  },
+  {
+    "id": "1mrsq2_img_painting_filter",
+    "name": "油画滤镜",
+    "tool_intro_usage": "油画滤镜专为将普通照片转换为油画风格的艺术作品而设计，通过这款工具，您可以轻松为照片添加油画滤镜效果，使其呈现出独特的油画质感和艺术氛围。1、点击“选择文件”按钮，选择您需要转换的头像照片（如JPG、PNG等），或将文件拖放到指定区域。2、文件上传完成后，选择您希望处理的效果。3、选择好处理效果之后，点击“确认”按钮，图片会转换成油画滤镜风格。4、转换成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_XLFzxZRc2Kj.png",
+    "logo_local_path": "logo_imgs/img_painting_filter.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_painting_filter.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:31.979667",
+    "status": "todo"
+  },
+  {
+    "id": "j32lau_img_human_split",
+    "name": "人像分割",
+    "tool_intro_usage": "人像分割是一款先进的在线工具，专为从图片中自动分割出人像而设计。通过利用深度学习和图像处理技术，这款工具能够精确识别并分割出图片中的人像部分，生成透明背景的人像图像。无论是用于照片编辑、创意设计，还是其他专业用途，人像分割工具都能满足您的需求。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会进行人像分割。3、处理成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_yWC7x9Bz_OQ.png",
+    "logo_local_path": "logo_imgs/img_human_split.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_human_split.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:35.091156",
+    "status": "todo"
+  },
+  {
+    "id": "x2s36p_img_pic_beauty",
+    "name": "照片美化",
+    "tool_intro_usage": "这款产品是一款免费的图像修饰软件，可以帮助您修改和润色您的照片。如果您想对照片质量进行提高，那么它是最好的选择。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会美化您的照片。3、处理成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_SYSAuArkyHB.png",
+    "logo_local_path": "logo_imgs/img_pic_beauty.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_pic_beauty.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:38.194253",
+    "status": "todo"
+  },
+  {
+    "id": "x76avn_doc_wrap",
+    "name": "文档图片扭曲恢复",
+    "tool_intro_usage": "文档图片扭曲恢复是一款专为修复和校正文档图片中扭曲或变形部分的在线工具。通过这款工具，您可以轻松恢复扫描文档、拍摄照片中的扭曲或变形区域，使其恢复到原始的平整状态。无论是用于学术资料、工作文档，还是个人记录，文档图片扭曲恢复工具都能满足您的需求。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会修复您的照片。3、处理成功后，可以将图片下载到本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_1H8m_YgzcQR.png",
+    "logo_local_path": "logo_imgs/doc_wrap.png",
+    "detail_page_url": "https://tool.browser.qq.com/doc_wrap.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:41.315792",
+    "status": "todo"
+  },
+  {
+    "id": "xf8rzu_img_fix",
+    "name": "图片修复",
+    "tool_intro_usage": "图片修复工具是一款免费的图片处理工具，用户可以使用它快速修复老化和模糊的照片，使照片恢复到高清状态，满足用户对照片的高清述求。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会修复您的照片。3、处理成功后，可以将图片下载到本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_f4DSnH_HO-_.png",
+    "logo_local_path": "logo_imgs/img_fix.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_fix.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:44.442973",
+    "status": "todo"
+  },
+  {
+    "id": "jey5sz_image_enhance",
+    "name": "图片去摩尔纹",
+    "tool_intro_usage": "图片去摩尔纹产品是一款在线免费的图片处理工具，这款图片在去除摩尔纹工具在出去摩尔纹的同时提高图像的质量。该产品的处理速度较快，且操作简单，适用于各种类型的照片。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会开始去除您图片中的摩尔纹。3、处理成功后，可以将图片下载到本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_M2J5h9jX_H3.png",
+    "logo_local_path": "logo_imgs/image_enhance.png",
+    "detail_page_url": "https://tool.browser.qq.com/image_enhance.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:47.554555",
+    "status": "todo"
+  },
+  {
+    "id": "qzzh2e_img_ai_cartoon",
+    "name": "多人卡通画",
+    "tool_intro_usage": "图片生成卡通画是一款图片处理工具，用户可以通过该软件将自己喜欢的图片添加到卡通风的人物中，从而创造出独特的卡通风人物形象。图片生成卡通画是一款非常好玩且实用的图像处理软件。对于想要创造独特而有趣的卡通风人物形象的的用户来说，照片生成通画是一个不可或缺的好助手。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会开始将您的图片转化成卡通画风格。3、处理成功后，可以将图片下载到本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HszKXpby7ZC.png",
+    "logo_local_path": "logo_imgs/img_ai_cartoon.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_ai_cartoon.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:50.729365",
+    "status": "todo"
+  },
+  {
+    "id": "y44kq1_img_ai_face",
+    "name": "童话脸",
+    "tool_intro_usage": "童话脸是一款基于AI技术和图像处理的图像处理工具。童话脸可以帮助用户通过上传自己或其他人的照片，将其转换为童话故事中的经典角色形象，非常适合那些喜欢童话故事的玩家们。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会开始将您图片中的人物转换成童话脸风格。3、处理成功后，可以将图片下载到本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_RRl9fGA-ZCt.png",
+    "logo_local_path": "logo_imgs/img_ai_face.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_ai_face.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:53.866443",
+    "status": "todo"
+  },
+  {
+    "id": "uhnkd2_img_ai_jordanstyle",
+    "name": "乔丹风格化",
+    "tool_intro_usage": "乔丹风格化是一款创意十足的在线工具，专为将普通照片转换为具有迈克尔·乔丹风格的艺术作品而设计。通过这款工具，您可以将照片应用乔丹风格的滤镜和效果，使其呈现出独特的篮球文化和运动精神。无论是用于社交媒体分享、创意设计，还是个人收藏，乔丹风格化工具都能满足您的需求。1、点击“选择文件”按钮，选择您需要转换的图片文件（如JPG、PNG等），或将文件拖放到指定区域。2、文件上传完成后，点击“开始处理”，系统会为图片加上乔丹风格的滤镜。3、点击“下载”按钮，将生成的图片保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_s4jgSpaviJz.png",
+    "logo_local_path": "logo_imgs/img_ai_jordanstyle.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_ai_jordanstyle.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:28:56.956867",
+    "status": "todo"
+  },
+  {
+    "id": "196cfp_img_ai_watercolor",
+    "name": "国漫水彩风",
+    "tool_intro_usage": "国漫水彩风专为将普通照片转换为具有中国漫画（国漫）水彩风格的艺术作品而设计。通过这款工具，您可以将照片应用国漫水彩风格的滤镜和效果，使其呈现出独特的东方美学和艺术氛围。1、点击“选择文件”按钮，选择您需要处理的图片。2、文件上传完成后，点击“开始处理”按钮，系统会开始将您的图片转化成国漫水彩风格。3、处理成功后，可以将图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_lVgeM00Yq9E.png",
+    "logo_local_path": "logo_imgs/img_ai_watercolor.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_ai_watercolor.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:00.056808",
+    "status": "todo"
+  },
+  {
+    "id": "48l0xy_avatar_pendant",
+    "name": "头像挂饰",
+    "tool_intro_usage": "您可以选择在自己的原有头像上增加心仪的挂饰或是DIY定制头像。同时也可以通过编辑头像来加上家族徽记或是写下节日问候的话语\n\n1、点击上传图片2、上传图片可以自由拖拽图片位置3、图片可以自由拉伸直到图片框填满为止3-1）拉伸方式电脑上鼠标选择图片通过滚轮放大缩小图片，手机通过手指选择图片进行缩放4、选择自己需要的挂饰5、直接点击下载",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_XNyWOe2S0aE.png",
+    "logo_local_path": "logo_imgs/avatar_pendant.png",
+    "detail_page_url": "https://tool.browser.qq.com/avatar_pendant.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:03.151746",
+    "status": "todo"
+  },
+  {
+    "id": "el83ab_gifsplitter",
+    "name": "GIF分解",
+    "tool_intro_usage": "GIF分解是一款实用的在线工具，专为将GIF动画分解为单帧图片而设计。通过这款工具，您可以轻松将一个GIF文件中的每一帧提取出来，保存为独立的图片文件，便于进一步编辑、分析或使用。无论是用于创意设计、动画制作，还是其他图像处理需求，GIF分解工具都能满足您的需求。1、点击“上传文件”按钮，上传您需要分解的GIF图。2、点击“分解”按钮，工具将分解您的GIF图。3、分解完成后，您可以将分解出来的图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_8fO4_MjP_V3.png",
+    "logo_local_path": "logo_imgs/gifsplitter.png",
+    "detail_page_url": "https://tool.browser.qq.com/gifsplitter.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:06.236948",
+    "status": "todo"
+  },
+  {
+    "id": "tkkyej_qrcode",
+    "name": "二维码生成",
+    "tool_intro_usage": "二维码生成是一款实用的在线工具，专为将文本、URL、联系方式等信息生成二维码而设计。通过这款工具，您可以轻松创建包含各种信息的二维码，便于在社交媒体分享、名片制作、营销推广和日常生活中使用。1、在输入框中输入您希望包含在二维码中的信息。常见的信息类型包括：文本、URL链接、联系方式（如电话、电子邮件）、Wi-Fi网络信息、其他自定义信息2、 点击“生成”按钮，工具会自动生成包含您输入信息的二维码，并显示在页面上。3、在结果区域查看生成的二维码。您可以根据需要下载二维码图片，或进行进一步的使用和分享。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_PzgvtAd45lU.png",
+    "logo_local_path": "logo_imgs/qrcode.png",
+    "detail_page_url": "https://tool.browser.qq.com/qrcode.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:09.322974",
+    "status": "todo"
+  },
+  {
+    "id": "ptvref_img9grid",
+    "name": "九宫格切图",
+    "tool_intro_usage": "九宫格切图可以帮助您将一张图片切割成3x3的九个小图块，非常适合在社交媒体平台上进行拼图发布，创造独特的视觉效果和吸引力。1、点击“选择文件”按钮，选择您希望切割的图片文件（如JPG、PNG等），或将文件拖放到指定区域。2、点击“切割”按钮，工具会自动将图片切割成3x3的九个小图块。3、在结果区域查看切割后的九宫格图块预览。4、点击“打包下载”，将九宫格图片下载到您的电脑。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_cmelSJs84at.png",
+    "logo_local_path": "logo_imgs/img9grid.png",
+    "detail_page_url": "https://tool.browser.qq.com/img9grid.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:12.420209",
+    "status": "todo"
+  },
+  {
+    "id": "6hwjua_imgconvert",
+    "name": "图片格式转换",
+    "tool_intro_usage": "图片格式转换工具可以帮助您将图片从一种格式转换为另一种格式，支持常见的图片格式如JPG、PNG、GIF、BMP等。无论是为了兼容不同的设备和软件，还是为了优化图片的质量和大小，这款工具都能满足您的需求。1、点击“选择文件”按钮，选择您要转换的图片文件，或将图片文件拖放到指定区域进行上传。2、上传完成后，选择您希望转换到的目标图片格式（如JPG、WEBP、BMP）。3、点击转换： 点击“转换”按钮，工具会自动将图片转换为您选择的目标格式。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_R0GKTfHr0cv.png",
+    "logo_local_path": "logo_imgs/imgconvert.png",
+    "detail_page_url": "https://tool.browser.qq.com/imgconvert.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:15.539931",
+    "status": "todo"
+  },
+  {
+    "id": "ahgzvh_gifcreate",
+    "name": "GIF合成",
+    "tool_intro_usage": "GIF合成工具可以帮助您将多张图片合成为一个动态的GIF文件。无论是为了制作有趣的动画，还是展示一系列连续的图片，这款工具都能满足您的需求，帮助您轻松创建高质量的GIF动画。1、点击“上传文件”按钮，上传您需要合成GIF的图片。2、点击“开始合成”按钮，工具将您上传的图片合成为GIF图。3、合成完成后，您可以将合成的GIF图片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_fay3s6aaBN4.png",
+    "logo_local_path": "logo_imgs/gifcreate.png",
+    "detail_page_url": "https://tool.browser.qq.com/gifcreate.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:18.626784",
+    "status": "todo"
+  },
+  {
+    "id": "c8o608_prettify_qrcode",
+    "name": "二维码美化",
+    "tool_intro_usage": "二维码美化工具可以帮助您将普通的二维码进行美化处理，使其更加个性化和吸引人。通过这款工具，您可以添加颜色、图标和其他装饰元素，创建独特的二维码，便于在营销推广、社交媒体分享和品牌展示中使用。1、点击“上传二维码”上传您需要的二维码，如没有二维码，可点击“编辑二维码”生成二维码。2、选择您喜欢的二维码样式，其中可以选择添加图标、选择信息点颜色、信息点样式等。3、美化好您的二维码之后，点击“下载图片”下载您的二维码到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_NbORuSIRWN6.png",
+    "logo_local_path": "logo_imgs/prettify_qrcode.png",
+    "detail_page_url": "https://tool.browser.qq.com/prettify_qrcode.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:21.727785",
+    "status": "todo"
+  },
+  {
+    "id": "gy4tgb_visit_card",
+    "name": "二维码名片",
+    "tool_intro_usage": "二维码名片工具可以帮助您将个人或企业的名片信息生成二维码，便于快速分享和扫描。通过这款工具，您可以将姓名、职位、公司、联系方式等信息生成一个二维码，方便他人通过扫描二维码快速获取您的名片信息，提升交流效率和专业形象。1、输入您的信息，包含姓名、手机、邮箱等。2、点击“生成二维码”按钮，可以预览名片，点击“再次编辑”按钮可以修改信息。3、名片预览确认无误后，点击“下载图片”将二维码名片下载到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_b1zbta6KnO3.png",
+    "logo_local_path": "logo_imgs/visit_card.png",
+    "detail_page_url": "https://tool.browser.qq.com/visit_card.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:24.819099",
+    "status": "todo"
+  },
+  {
+    "id": "r99cjp_img_fade",
+    "name": "图片黑白化",
+    "tool_intro_usage": "通过这款工具，您可以轻松将图片中的颜色去除，生成具有经典黑白效果的图片，适用于艺术创作、照片编辑和其他图像处理需求。1、点击“上传图片”上传您需要处理的图片，2、上传后工具会自动将图片黑白化显示在结果区域。3、您可以下载处理后的图片到本地。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_13v7iAXB2lY.png",
+    "logo_local_path": "logo_imgs/img_fade.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_fade.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:27.919334",
+    "status": "todo"
+  },
+  {
+    "id": "i02xe9_img_pixel",
+    "name": "图片像素化",
+    "tool_intro_usage": "图片像素化工具可以帮助您将图片进行像素化处理，生成具有独特视觉效果的像素风格图片。通过这款工具，您可以轻松创造出复古、艺术或游戏风格的效果，适用于创意设计、艺术创作和社交媒体分享等场景。1、点击”选择文件“上传需要处理的图片。2、选择彩色模式或者白色模式。3、点击”开始转化“按钮，工具将对您的图片进行像素化处理。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_f47CQpCmTBm.png",
+    "logo_local_path": "logo_imgs/img_pixel.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_pixel.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:31.075483",
+    "status": "todo"
+  },
+  {
+    "id": "b5emmg_image_secret_msg",
+    "name": "图片隐写",
+    "tool_intro_usage": "图片隐写工具可以帮助您将文本或文件隐藏在图片中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到图片中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。1、点击“选择文件”按钮，选择您希望用来隐藏信息的图片文件（支持JPG、PNG等格式），或将图片文件拖放到指定区域进行上传。2、输入或上传要隐藏的信息。3、点击“加密”按钮，工具会将输入的文本嵌入到图片中，并生成一个包含隐藏信息的新图片。4、点击”解密“按钮，工具会将您的图片隐写内容解除。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_AwJuh3nVpL4.png",
+    "logo_local_path": "logo_imgs/image_secret_msg.png",
+    "detail_page_url": "https://tool.browser.qq.com/image_secret_msg.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:34.158676",
+    "status": "todo"
+  },
+  {
+    "id": "5n80cb_biaoqing",
+    "name": "表情包制作",
+    "tool_intro_usage": "表情包制作是一款在线的表情包制作工具，可以帮助用户制作出各种可爱、有趣的图片表情包，该软件简单好用，比如用户可以直接上传录制的图片添加上文本来增加趣味性，非常适合在平时聊天冲浪使用。1、点击“更换图片”上传您想要制作表情包的图片素材。2、输入您想要的文案、调整文字颜色和文字透明度。3、工具会实时更新您的调整。4、点击“下载图片”，将制作好的表情包保存到本地。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_2hXM0qNkKw6.png",
+    "logo_local_path": "logo_imgs/biaoqing.png",
+    "detail_page_url": "https://tool.browser.qq.com/biaoqing.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:37.244666",
+    "status": "todo"
+  },
+  {
+    "id": "80wcc3_qrcode_scan",
+    "name": "二维码扫描",
+    "tool_intro_usage": "扫一扫，信息即达。二维码扫描工具，快速准确读取二维码内嵌的各类数据信息。支持链接、文本、名片等多种格式，无论是支付、分享还是连接，都能提供便捷的扫描体验。1、点击“选择文件”按钮，选择您希望识别的二维码图片文件（支持JPG、PNG等格式），或将图片文件拖放到指定区域进行上传。2、点击”二维码识别”按钮，工具将识别您的二维码并显示结果。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_PzgvtAd45lU.png",
+    "logo_local_path": "logo_imgs/qrcode_scan.png",
+    "detail_page_url": "https://tool.browser.qq.com/qrcode_scan.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:40.341942",
+    "status": "todo"
+  },
+  {
+    "id": "ftyunc_qbtool-license",
+    "name": "数据处理规则及免责声明",
+    "tool_intro_usage": "服务提供方为：深圳市腾讯计算系统有限公司， 注册地为广东省深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层。\n\n当您使用我们提供的“本工具箱”实用工具聚合服务时（包括但不限于证件照生成、身份证识别、人脸年龄选择、人脸性别转换、视频去声、视频转gif、ppt格式转换、pdf格式转换等图片、视频、音频、文档类工具等），涉及如下信息处理：（1）如果您上传存在于SD卡或者相册的文件的时候，我们需要您授权您所使用的浏览器SD卡存储权限；（2）为了完成对应的服务，您上传的文件（如图片、视频、音频、文档等）会被上传至我们的云端服务器进行处理并返回处理后的结果。上传的图片/视频等文件以及处理过程、处理完成后的结果我们均会及时删除，不会储存，也不会用于其他目的或向第三方共享。（3）如您选择的是证件照生成、人脸年龄选择、人脸性别转换等涉及人脸识别技术的，则我们需要获取并处理您的人脸识别信息，人脸识别信息属于生物识别信息，是个人敏感信息；如您选择的是身份证识别服务，我们需要获取您的身份证信息，身份证信息也属于个人敏感信息。请您确保知悉并同意授权我们基于工具服务对应的信息处理的目的、上述处理方式、信息的种类范围，处理您的个人信息。如您上传的不是您本人的图片，请您务必告知被处理人对其图片的使用和影响等全部内容，并取得被处理人的单独同意。（4）我们将采取法律法规以及服务提供者约定的必要安全措施，以尽到信息安全保护义务。 特别注意：如您选择的工具服务并非腾讯提供，而是由第三方（通过网页或小程序等）提供，请您关注工具页面公示的信息处理规则，了解并同意后再选择使用。当您使用BMI计算、IP归属地等查询类工具的时候，我们需要收集您输入的内容，以便完成对应的功能，输入的内容不会进行本地或者后台的存储，也不会用于其他目的或第三方共享。\n\n我们非常重视对未成年人个人信息的保护。 根据相关法律法规的规定，若您是18周岁以下的未成年人，在使用QQ浏览器产品或服务前，应事先取得您的家长或法定监护人的同意。 根据相关法律法规的规定，若您是14周岁以下的儿童，在使用QQ浏览器产品或服务前，应当按照注册、使用流程，事先取得您的家长或法定监护人的同意，并由您的家长或法定监护人帮助您完成产品或服务注册流程，以便您能使用我们提供的产品或服务。 若您是儿童的监护人，当您在帮助儿童完成产品或服务的注册、使用前，应当仔细阅读本隐私保护指引和《儿童隐私保护声明》，决定是否同意本隐私保护指引和《儿童隐私保护声明》并帮助儿童进行注册、使用，以便儿童能使用我们提供的产品或服务。 如您对您所监护的儿童的个人信息保护有相关疑问或权利请求时，请通过本隐私保护指引中的第11部分中披露的联系方式与我们联系。我们会在合理的时间内处理并回复您。\n\n我们设立了专门的个人信息保护团队和个人信息保护负责人，如果您对本隐私保护指引或个人信息保护相关事宜有任何疑问或投诉、建议时，您可以通过以下方式与我们联系：(1) 您可以填写个人信息保护和隐私问题反馈问卷与我们联系；(2) 将问题发送至Dataprivacy@tencent.com；(3) 通过 https://kf.qq.com/ 与我们联系；(4) 将您的问题邮寄至下列地址：中国广东省深圳市南山区海天二路33号腾讯滨海大厦 数据隐私保护部（收）邮编：518054我们将尽快审核所涉问题，并在15日或法律法规规定的期限内予以反馈。\n\n1、本工具箱所带功能的基本原理是机器自动生成，结果没有经过任何人工整理与编辑。对结果的正确性、完整性和内容合法性不做任何形式的保证，亦不承担任何法律责任。2、因为技术发展水平限制，无法保证本软件功能的准确率。您使用本功能需要理解并同意，服务的过程中出现任何错误，您都不会追究我方责任， 并不因此对本工具箱进行负面评价。本服务按照“现状”和“现有”提供，且不做任何形式的保证或背书。在适用的法律允许的最大范围内，未就以下方面做出任何明示或默示的保证、担保、承诺或声明：(1) 经由本服务获得的任何文本、音频等内容的完整性、准确性、可靠性或及时性；（2）服务器是否存在缺陷、错误、病毒、漏洞或其它有害元素；(3) 本服务是否可靠、优质、准确、可用或能够满足您的需求、能够产生特定的结果或实现特定的结果或成果。3、本软件仅根据用户键入内容、上传图片、音频、视频、文档的结果提供机器结果，对于输入的内容和翻译结果造成的侵权、纠纷、损失概不负责，亦不承担任何法律责任。",
+    "tags": [],
+    "logo_url": "",
+    "logo_local_path": "",
+    "detail_page_url": "https://static.res.qq.com/nav/qbtool/qbtool-license.html",
+    "category": "img",
+    "crawled_at": "2026-05-05T00:29:42.261791",
+    "status": "todo"
+  },
+  {
+    "id": "7ush0a_pdf_2_word",
+    "name": "PDF转Word",
+    "tool_intro_usage": "PDF转Word是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Word文档。1、点击上传区域或使用拖放功能，将您的PDF文件上传至工具中。2、点击“上传”按钮，开始将PDF转换为Word。3、转换完成后，你可以下载Word文档到电脑上。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_W4ZZOk76VO4.png",
+    "logo_local_path": "logo_imgs/pdf_2_word.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_2_word.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:29:45.359716",
+    "status": "todo"
+  },
+  {
+    "id": "txw7mk_pdf_2_excel",
+    "name": "PDF转Excel",
+    "tool_intro_usage": "PDF转Excel是一款高效的文档处理工具，旨在帮助用户轻松将PDF文件转换为可编辑的Excel文档。1、点击上传区域或使用拖放功能，将您的PDF文件上传至工具中。2、点击“上传”按钮，开始将PDF转换为Excel。3、转换完成后，你可以下载Excel文档到电脑上。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_fArFtJcyH_q.png",
+    "logo_local_path": "logo_imgs/pdf_2_excel.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_2_excel.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:29:48.463488",
+    "status": "todo"
+  },
+  {
+    "id": "y59vt5_pdf_2_html",
+    "name": "PDF转HTML",
+    "tool_intro_usage": "PDF图片转HTML是一款功能强大的在线转换工具，这款工具不仅能够处理文本和向量图形，还能够将PDF中的图片准确地转换成网页元素。转换后的HTML网页保持了PDF原始页面的布局和格式，确保了在不同的浏览器和设备上都能够以原样呈现，从而提供了更广泛的内容访问和分享可能性。1、点击上传区域或使用拖放功能，将您的PDF文件上传至工具中。2、点击“上传”按钮，开始将PDF转换为HTML。3、转换完成后，你可以下载HTML文档到电脑上。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_ZCWRH1Nw0p8.png",
+    "logo_local_path": "logo_imgs/pdf_2_html.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_2_html.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:29:51.572659",
+    "status": "todo"
+  },
+  {
+    "id": "0xx849_pdf_2_png",
+    "name": "PDF转图片",
+    "tool_intro_usage": "PDF转图片工具是一款专业的在线转换器，它能够将PDF文档逐页转换为独立的图片文件，或者将整个PDF文档转换为一张连续的长图。1、通过点击上传按钮或拖放功能，上传你的PDF文件到服务器。2、选择你希望的输出选项：逐页转换或转换为长图。3、点击“转换”按钮，开始将PDF转换为图片。4、转换完成后，你可以下载单独的图片文件或一张包含所有页面的长图。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_aCBqbrwMOPk.png",
+    "logo_local_path": "logo_imgs/pdf_2_png.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_2_png.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:29:54.661074",
+    "status": "todo"
+  },
+  {
+    "id": "sz84vq_pdf_2_ppt",
+    "name": "PDF转PPT",
+    "tool_intro_usage": "PDF转PPT工具是一款用户友好的在线转换服务，专门设计用于将PDF文件转换成PowerPoint演示文稿。1、点击上传区域或使用拖放功能，将您的PDF文件上传至工具中。2、点击“上传”按钮，开始将PDF转换为PPT。3、转换完成后，你可以下载PPT文档到电脑上。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_pWw6a-OPw2q.png",
+    "logo_local_path": "logo_imgs/pdf_2_ppt.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_2_ppt.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:29:57.759592",
+    "status": "todo"
+  },
+  {
+    "id": "rxjl3j_pdf_watermark",
+    "name": "PDF加水印",
+    "tool_intro_usage": "PDF加水印工具是一款在线应用，它允许用户在PDF文件上添加自定义的水印信息。这项功能对于保护版权、标记文件状态或个性化文档非常有用，并能够自定义水印的位置、大小、透明度和旋转角度，以满足不同的需求和偏好。1、上传您需要添加水印的PDF文件。2、输入您想要的水印文字，并调整字号、大小、颜色、透明度和位置。3、点击“添加水印”按钮，开始加水印的处理过程。4、处理完成后，下载带有水印的PDF文件到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_8yR0OQzXBrS.png",
+    "logo_local_path": "logo_imgs/pdf_watermark.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_watermark.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:00.867728",
+    "status": "done"
+  },
+  {
+    "id": "og3vep_pdf_compress",
+    "name": "PDF瘦身",
+    "tool_intro_usage": "PDF瘦身是一款高效的在线工具，压缩PDF大小，减小传输和存储成本，适用于有较多图片的PDF文件。1、点击“上传文件”按钮或将PDF文件拖放到指定区域，以上传您需要压缩的PDF文件。2、文件上传完成后，选择压缩级别，以平衡文件大小和质量。3、点击“开始压缩”按钮，工具将自动处理并优化您的PDF文件。4、处理完成后，你可将处瘦身后的文件保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_G4sqDz6PJDN.png",
+    "logo_local_path": "logo_imgs/pdf_compress.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_compress.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:03.966797",
+    "status": "todo"
+  },
+  {
+    "id": "hrv018_pdf_sign",
+    "name": "PDF签名",
+    "tool_intro_usage": "签署无忧，效率提升！PDF签名工具，为您提供快速、安全的电子签名解决方案。无需打印，直接在PDF文档上添加个人或公司签名。保障文档完整性，支持法律效力，助力商务高效运转。1、点击“选择文件”按钮，以上传您需要签名的PDF文件。2、点击新建签名按钮可以设置签名笔刷的颜色粗细。4、签名完成后，你可将文件保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_5g6H6j-jWiX.png",
+    "logo_local_path": "logo_imgs/pdf_sign.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_sign.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:07.067370",
+    "status": "todo"
+  },
+  {
+    "id": "snbvqf_img_2_pdf_convert",
+    "name": "图片转PDF",
+    "tool_intro_usage": "图片转PDF专为将多张图片合并转换为PDF文件而设计，无论您是需要将照片、扫描的文档、截图等图片格式（如JPG、PNG等）转换为一个PDF文件，这款工具都能快速高效地完成任务。1、点击“上传图片”按钮或将图片文件（如JPG、PNG等）拖放到指定区域，以上传您需要转换的图片。2、上传完成后，您可以拖动图片缩略图调整它们在PDF中的顺序。3、点击“开始转换”按钮，工具将自动将所有图片合并并转换为一个PDF文件。4、下载并检查PDF文件，确保其符合您的需求。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_o1X0TOlhWx_.png",
+    "logo_local_path": "logo_imgs/img_2_pdf_convert.png",
+    "detail_page_url": "https://tool.browser.qq.com/img_2_pdf_convert.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:10.151316",
+    "status": "todo"
+  },
+  {
+    "id": "z8tzqs_pdf_split",
+    "name": "PDF拆分",
+    "tool_intro_usage": "PDF拆分是一款便捷的在线工具，专为从PDF文件中提取指定页面并生成新的PDF文件而设计。无论您是需要分离特定章节、提取重要页面，这款工具都能快速高效地完成任务，帮助您更好地管理和使用PDF文件。1、点击“选择文件”按钮，选择您需要拆分的PDF文件，或将文件拖放到指定区域。2、 文件上传完成后，您将看到一个页面预览界面。选择您希望拆分出来的页面范围，可以是单个页面、多个不连续页面或一个页面区间。3、 确认您选择的页面范围无误，然后点击“拆分”按钮。4、工具会自动处理并生成包含所选页面的新PDF文件。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_wp-1WMQogcR.png",
+    "logo_local_path": "logo_imgs/pdf_split.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_split.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:13.244627",
+    "status": "todo"
+  },
+  {
+    "id": "ddsrxr_pdf_merge",
+    "name": "PDF合并",
+    "tool_intro_usage": "PDF合并工具可以帮助您将多个PDF文件合并成一个单一的PDF文件。通过这款工具，您可以轻松上传多个PDF文件，调整它们的顺序，并生成一个合并后的PDF文件，适用于文档整理、报告汇总和资料整合等场景。1、点击“选择文件”按钮，选择您需要拆分的PDF文件，或将文件拖放到指定区域。2、 文件上传完成后，您将看到一个页面预览界面。选择您希望合并的页面范围，可以是单个页面、多个不连续页面或一个页面区间。3、 确认您选择的页面范围无误，然后点击“合并”按钮。4、工具会自动处理并生成包含所选页面的新PDF文件。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Jx9krM7eaJw.png",
+    "logo_local_path": "logo_imgs/pdf_merge.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_merge.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:16.343134",
+    "status": "todo"
+  },
+  {
+    "id": "02p32z_pdf_imagefy",
+    "name": "转纯图PDF",
+    "tool_intro_usage": "该工具通过将PDF中的每一页转换为图片，这款工具能够有效防止内容被复制和篡改，确保文档的安全性和完整性。1、点击“选择文件”按钮，选择您需要转换的PDF文件，或将文件拖放到指定区域。2、 文件上传完成后，您将看到一个页面预览界面。选择您希望转纯图页面范围，可以是单个页面、多个不连续页面或一个页面区间。3、 确认您选择的页面范围无误，然后点击“转换”按钮。4、工具会自动将PDF中的每一页转换为图像，并生成一个新的纯图版PDF文件。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_vNXasw6wOSx.png",
+    "logo_local_path": "logo_imgs/pdf_imagefy.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_imagefy.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:19.458063",
+    "status": "todo"
+  },
+  {
+    "id": "lnphyz_pdf_page_manage",
+    "name": "PDF页面管理",
+    "tool_intro_usage": "PDF页面管理是一款多功能的在线工具，专为管理和编辑PDF文件中的页面而设计。通过这款工具，您可以轻松添加、删除、旋转PDF页面，并调整页面顺序，从而优化和定制您的PDF文档。1、点击“选择文件”按钮，选择您需要管理的PDF文件，或将文件拖放到指定区域。2、文件上传完成后，您将看到PDF文件的页面预览界面，显示所有页面的缩略图，您可以对页面进行管理3、完成所有页面管理操作后，点击“保存”或“下载”按钮，生成并下载修改后的PDF文件。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_0jurZRMsuqV.png",
+    "logo_local_path": "logo_imgs/pdf_page_manage.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_page_manage.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:22.618424",
+    "status": "todo"
+  },
+  {
+    "id": "70ifg6_pdf_img_extract",
+    "name": "PDF图片提取",
+    "tool_intro_usage": "PDF图片提取是一款专为从PDF文件中提取图片而设计的在线工具。无论您是需要获取PDF文档中的插图、照片、图表或其他图像内容，这款工具都能快速高效地完成任务，帮助您轻松提取并保存所需的图片资源。1、选择您需要提取图片的PDF文件，或将文件拖放到指定区域。2、文件上传完成后，工具会自动扫描PDF文件中的所有图片，并提取出来。3、提取完成后，您可以保存图片到设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HjH58YkDSQ4.png",
+    "logo_local_path": "logo_imgs/pdf_img_extract.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_img_extract.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:25.707505",
+    "status": "todo"
+  },
+  {
+    "id": "3n2ly6_pdf_password",
+    "name": "PDF加解密",
+    "tool_intro_usage": "PDF加解密是一款功能强大的在线工具，专为为PDF文件添加或移除密码保护而设计。1、点击“上传文件”按钮，选择您需要加密的PDF文件，或将文件拖放到指定区域。2、文件上传完成后，选择加密或者解密选项，设置密码进行加密，输入密码进行解密。3、设置完成后，可将加密或者解密后的PDF文件保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_pPn1P1gH_8U.png",
+    "logo_local_path": "logo_imgs/pdf_password.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_password.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:28.840170",
+    "status": "todo"
+  },
+  {
+    "id": "lob3eq_pdf_crop",
+    "name": "PDF页面裁剪",
+    "tool_intro_usage": "PDF页面裁剪是一款实用的在线工具，专为对PDF文件的页面进行裁剪而设计。通过这款工具，您可以自定义裁剪区域，对PDF的所有页面进行统一裁剪，适用于去除页面白边、调整页面内容区域等需求。1、点击“选择文件”按钮，选择您需要裁剪的PDF文件，或将文件拖放到指定区域。2、文件上传完成后，您将看到PDF页面的预览界面。使用裁剪工具自定义裁剪区域，可以通过拖动边框调整裁剪框的大小和位置。3、确认裁剪区域无误后，点击“确认裁剪”按钮，工具会自动对PDF的所有页面进行裁剪。4、剪裁完成后，可将剪裁后的PDF文件保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_mJHj9uEIKUK.png",
+    "logo_local_path": "logo_imgs/pdf_crop.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_crop.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:31.922438",
+    "status": "todo"
+  },
+  {
+    "id": "8cdua5_pdf_metadata",
+    "name": "修改PDF元数据",
+    "tool_intro_usage": "通过这款工具，您可以轻松修改PDF文件的作者、主题、关键词、内容创作者等信息。无论是为了整理文档、提高搜索效率，还是为了保护隐私，修改PDF元数据工具都能满足您的需求。1、点击“选择文件”按钮，选择您需要修改元数据的PDF文件，或将文件拖放到指定区域。2、查看和编辑元数据： 文件上传完成后，工具会显示当前PDF文件的元数据，您可以查看并编辑。3、完成元数据的编辑后，点击“确认修改”按钮，工具会将修改后的元数据保存到PDF文件中。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_kcd93i0RsgZ.png",
+    "logo_local_path": "logo_imgs/pdf_metadata.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_metadata.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:35.039399",
+    "status": "todo"
+  },
+  {
+    "id": "zxeb8w_pdf_page_number",
+    "name": "PDF加页码",
+    "tool_intro_usage": "PDF加页码是一款便捷的在线工具，专为在PDF文件中添加页码而设计。通过这款工具，您可以轻松为PDF文件的每一页添加页码，提升文档的专业性和可读性。无论是用于报告、论文、电子书还是其他文档，PDF加页码工具都能满足您的需求。1、 点击“选择文件”按钮，选择您需要添加页码的PDF文件，或将文件拖放到指定区域。2、文件上传完成后，选择页码的风格、字体大小和位置。3、点击“确认添加”添加设置的页码，最后下载文件。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_gqSSfB6fLGC.png",
+    "logo_local_path": "logo_imgs/pdf_page_number.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_page_number.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:38.127423",
+    "status": "todo"
+  },
+  {
+    "id": "6s9f6f_pdf_pagesize",
+    "name": "修改PDF页面尺寸",
+    "tool_intro_usage": "修改PDF页面尺寸工具可以帮助您调整PDF文件页面的尺寸。通过这款工具，您可以轻松更改PDF页面的宽度和高度，适用于打印、文档格式调整和其他专业需求。1、 点击“选择文件”按钮，选择您希望调整页面尺寸的PDF文件，或将文件拖放到指定区域进行上传。2、 上传完成后，选择您希望设置的新页面尺寸。可供选择的尺寸有A2、A3、A4等。3、点击“修改”按钮，工具会自动处理PDF文件并调整页面尺寸。4、修改完成后，您可以将文件下载到本地。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_-4BXKyxE-Ld.png",
+    "logo_local_path": "logo_imgs/pdf_pagesize.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_pagesize.html",
+    "category": "pdf",
+    "crawled_at": "2026-05-05T00:30:41.319723",
+    "status": "todo"
+  },
+  {
+    "id": "esdmgo_temperaturetrans",
+    "name": "温度转换",
+    "tool_intro_usage": "温度转换专为将不同温度单位之间进行转换而设计。通过这款工具，您可以轻松将温度从摄氏度（Celsius）、华氏度（Fahrenheit）和开尔文（Kelvin）等单位之间进行转换，满足各种科学研究、日常生活和工作需求。使用方法：在任意一个单位后面输入度数，其他所有的单位会自动计算转换后的温度。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_G5xu26Of335.png",
+    "logo_local_path": "logo_imgs/temperaturetrans.png",
+    "detail_page_url": "https://tool.browser.qq.com/temperaturetrans.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:30:44.414545",
+    "status": "todo"
+  },
+  {
+    "id": "5gfazf_invest",
+    "name": "投资收益计算",
+    "tool_intro_usage": "通过这款工具，您可以轻松输入投资金额、投资期限、年化收益率等参数，快速计算出投资的总收益和年化收益率，帮助您更好地进行投资决策和财务规划。1、输入投资本金、年化收益率、投资期限。2、点击“开始计算”按钮，系统会为您计算出投资收益、本金加收益。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Diqv6CdiQf0.png",
+    "logo_local_path": "logo_imgs/invest.png",
+    "detail_page_url": "https://tool.browser.qq.com/invest.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:30:47.517112",
+    "status": "todo"
+  },
+  {
+    "id": "6gog2j_wuxianyijin",
+    "name": "五险一金计算",
+    "tool_intro_usage": "五险一金计算是一款实用的在线工具，专为帮助用户计算五险一金缴费金额而设计。通过这款工具，您可以根据税前月薪、社保基数、公积金基数、是否汇缴公积金、单位与个人汇缴比例等参数，快速计算出个人和单位需要缴纳的五险一金金额，帮助您更好地了解和管理个人社保和公积金情况。1、请输入您的税前月薪、社保基数、公积金基数，选择是否缴纳公积金，并选择单位与个人汇交比例。2、点击“计算”按钮，系统会为您计算出您的五险一金详细情况。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_3Lrlu-aivto.png",
+    "logo_local_path": "logo_imgs/wuxianyijin.png",
+    "detail_page_url": "https://tool.browser.qq.com/wuxianyijin.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:30:50.677322",
+    "status": "todo"
+  },
+  {
+    "id": "r12w5a_hexconvert",
+    "name": "进制转换",
+    "tool_intro_usage": "进制转换是一款实用的在线工具，专为将数字在不同进制之间进行转换而设计。通过这款工具，您可以轻松将数字在二进制、八进制、十进制和十六进制等进制之间进行转换，满足各种编程、数学和工程需求。使用方法：在任意一个单位后面输入数值，其他所有的单位会自动计算转换后的数值。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_cYsjWoCO4z1.png",
+    "logo_local_path": "logo_imgs/hexconvert.png",
+    "detail_page_url": "https://tool.browser.qq.com/hexconvert.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:30:53.763894",
+    "status": "todo"
+  },
+  {
+    "id": "mestou_mortgage",
+    "name": "房贷计算",
+    "tool_intro_usage": "房贷计算是一款实用的在线工具，专为帮助用户计算房屋贷款的月供、总利息和还款总额而设计。通过这款工具，您可以根据贷款金额、贷款期限、利率等参数，快速计算出每月需要偿还的金额，帮助您更好地进行财务规划和购房决策。1、请输入贷款方式、贷款总额、贷款期限、商业贷款利率、还款方式。2、点击“计算”按钮，系统会为您计算出还款总额、总利息、月供。3、点击“查看每月还款详情”，可以查看您每个月需要还款的本金、利息、剩余本息数据。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_iwZScewY9D_.png",
+    "logo_local_path": "logo_imgs/mortgage.png",
+    "detail_page_url": "https://tool.browser.qq.com/mortgage.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:30:56.883316",
+    "status": "todo"
+  },
+  {
+    "id": "ksvfh7_num2zh",
+    "name": "数字大小写转换",
+    "tool_intro_usage": "数字大小写转换是一款实用的在线工具，专为将阿拉伯数字转换为中文大写数字，或将中文大写数字转换为阿拉伯数字而设计。通过这款工具，您可以轻松进行数字大小写转换，满足各种财务报表、合同文书和票据填写等需求。1、在输入框中输入您希望转换的数字内容。可以是阿拉伯数字（如1234）或中文大写数字（如壹仟贰佰叁拾肆）。2、 选择您希望进行的转换方向，可以选择“数字转中文或“中文转数字”。3、点击转化和方向之后，工具会自动将输入的数字进行转换，并显示转换后的结果。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_7pq6Ym5i7u9.png",
+    "logo_local_path": "logo_imgs/num2zh.png",
+    "detail_page_url": "https://tool.browser.qq.com/num2zh.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:00.015127",
+    "status": "todo"
+  },
+  {
+    "id": "lpkd1h_bmi",
+    "name": "BMI计算",
+    "tool_intro_usage": "BMI是一种常用的健康指标，通过体重和身高的比例来评估一个人的体重是否在健康范围内。通过这款工具，您可以快速计算出您的BMI值，并了解您的体重状况，帮助您更好地进行健康管理。1、输入您的身高和体重。2、点击“开始计算”按钮，系统会为您计算您的BMI值。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_nh1Ti_hcpiB.png",
+    "logo_local_path": "logo_imgs/bmi.png",
+    "detail_page_url": "https://tool.browser.qq.com/bmi.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:03.103216",
+    "status": "todo"
+  },
+  {
+    "id": "3sw16v_timestamp",
+    "name": "时间戳转换",
+    "tool_intro_usage": "时间戳转换是一款实用的在线工具，专为将时间戳（Unix时间戳）转换为人类可读的日期时间格式，或将日期时间转换为时间戳而设计。通过这款工具，您可以轻松进行时间戳和日期时间之间的相互转换，满足各种编程、数据处理和时间管理需求。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_qFH19V9IwjZ.png",
+    "logo_local_path": "logo_imgs/timestamp.png",
+    "detail_page_url": "https://tool.browser.qq.com/timestamp.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:06.210874",
+    "status": "todo"
+  },
+  {
+    "id": "brgjiv_datecal",
+    "name": "日期计算",
+    "tool_intro_usage": "日期计算是一款实用的在线工具，专为进行各种日期相关的计算而设计。通过这款工具，您可以轻松计算两个日期之间的天数、添加或减去特定天数、计算特定日期的星期几等，满足各种日常生活、工作和项目管理需求。1、选择您想要计算日期的类型，是计算几天后的日期，还是计算日期差。1）计算几天后的日期：选择起始日期并输入间隔天数2）计算日期茶：选择开始日期喝结束日期2、点击开始计算，工具会在底部显示计算结果。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_xHxN8T3u3Si.png",
+    "logo_local_path": "logo_imgs/datecal.png",
+    "detail_page_url": "https://tool.browser.qq.com/datecal.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:09.317904",
+    "status": "todo"
+  },
+  {
+    "id": "bwsyrz_calculator",
+    "name": "计算器",
+    "tool_intro_usage": "计算器是一款功能强大、实用的计算工具，适用于各种数学计算场景。该工具包含了多种数学函数、计算公式和各种数据类型，可以使用户轻松地进行乘除、开方、指数、三角函数运算等各种数学计算。 该软件还具有较好的性能和可靠性，能够满足长时间运行和多任务处理的需要。此外，软件还提供了多种美化界面和动画效果，可以提高用户体验和软件的趣味性。。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_kTLJu_AsCBj.png",
+    "logo_local_path": "logo_imgs/calculator.png",
+    "detail_page_url": "https://tool.browser.qq.com/calculator.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:12.401161",
+    "status": "todo"
+  },
+  {
+    "id": "83sp4v_lengthconvert",
+    "name": "长度转换",
+    "tool_intro_usage": "长度转换工具可以帮助用户在不同的长度单位之间进行相互转换。通过这款工具，您可以轻松将长度从一种单位转换为另一种单位，满足各种科学研究、工程计算、日常生活和工作需求。1、从下拉菜单中选择输入长度值的单位（如米、厘米、毫米、英寸、英尺、码、公里、英里等）。2、 从下拉菜单中选择您希望转换到的目标长度单位（如米、厘米、毫米、英寸、英尺、码、公里、英里等）。3、输入您想要转换的数值，工具将为您自动转换。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_GIiWv3h_Se7.png",
+    "logo_local_path": "logo_imgs/lengthconvert.png",
+    "detail_page_url": "https://tool.browser.qq.com/lengthconvert.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:15.489191",
+    "status": "todo"
+  },
+  {
+    "id": "vwbufo_byte_cal",
+    "name": "字节数换算",
+    "tool_intro_usage": "字节数换算工具可以帮助您在不同的数据单位之间进行转换。通过这款工具，您可以轻松将字节（Byte）、千字节（KB）、兆字节（MB）、吉字节（GB）、太字节（TB）等单位进行相互换算，满足各种数据处理和存储需求。使用方法：在任意一个字节单位下面输入数值，其他所有的单位会自动计算换算后的数值。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_3Hw5LTxhAU5.png",
+    "logo_local_path": "logo_imgs/byte_cal.png",
+    "detail_page_url": "https://tool.browser.qq.com/byte_cal.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:18.668895",
+    "status": "todo"
+  },
+  {
+    "id": "ljhie1_partition",
+    "name": "硬盘分区",
+    "tool_intro_usage": "硬盘分区工具可以帮助您对硬盘进行分区管理，创建、调整、删除和格式化硬盘分区。通过这款工具，您可以优化硬盘空间的使用，便于数据存储和系统管理，适用于个人电脑和服务器的硬盘管理需求。1、输入硬盘的内存大小数据。2、点击“分区”，工具会为你计算NTFS、FAT32。3、工具页面有详细的计算方法，可以进行参考。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HNOkZTi-vQ2.png",
+    "logo_local_path": "logo_imgs/partition.png",
+    "detail_page_url": "https://tool.browser.qq.com/partition.html",
+    "category": "data",
+    "crawled_at": "2026-05-05T00:31:21.779223",
+    "status": "todo"
+  },
+  {
+    "id": "y6xl2b_garbage",
+    "name": "垃圾分类查询",
+    "tool_intro_usage": "垃圾分类查询工具是一款免费的工具，可以用来查询生活中的垃圾分类情况。这款工具提供了实时更新的垃圾分类。让用户更加清晰地了解垃圾分类的具体方法和要求。更好地理解和管理垃圾分类工作",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_TPJ-H8BOubU.png",
+    "logo_local_path": "logo_imgs/garbage.png",
+    "detail_page_url": "https://tool.browser.qq.com/garbage.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:24.870308",
+    "status": "todo"
+  },
+  {
+    "id": "d1p435_sogou_box",
+    "name": "搜狗百宝箱",
+    "tool_intro_usage": "搜狗百宝箱，您的全能助手！集成日常工具、投资理财、个人信息管理、语言翻译、编码字符等功能，满足您生活和工作的多样需求。一站式解决方案，让复杂生活变得简单高效。搜狗百宝箱，智能生活，触手可及。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_dj6d4Pps5fg.png",
+    "logo_local_path": "logo_imgs/sogou_box.png",
+    "detail_page_url": "https://tool.browser.qq.com/sogou_box.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:27.991418",
+    "status": "todo"
+  },
+  {
+    "id": "4nntz0_contract_verification",
+    "name": "合同验签",
+    "tool_intro_usage": "确保合同完整性，信任每一笔签署！上传经腾讯电子签完成签署的文件，使用我们的合同验签工具进行严格检测，确保文件自签署之日起未遭篡改。保护合同安全，维护交易真实性，让每一份合同都值得信赖。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_DVsaT-OJyqI.png",
+    "logo_local_path": "logo_imgs/contract_verification.png",
+    "detail_page_url": "https://tool.browser.qq.com/contract_verification.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:31.071279",
+    "status": "todo"
+  },
+  {
+    "id": "2untyz_contract_comparison",
+    "name": "合同对比",
+    "tool_intro_usage": "合同审核，智能高效！上传原版及新版合同，让合同对比工具自动扫描差异，精确定位每一个改动点。节省人工审核时间，防止遗漏关键条款变更，确保合同修改清晰透明。合同管理，从此简单。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_YYBzI86E6PQ.png",
+    "logo_local_path": "logo_imgs/contract_comparison.png",
+    "detail_page_url": "https://tool.browser.qq.com/contract_comparison.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:34.169055",
+    "status": "todo"
+  },
+  {
+    "id": "vny7hv_pdf_search",
+    "name": "搜狗PDF文件搜索",
+    "tool_intro_usage": "搜狗PDF文件搜索是一款强大的在线工具，专为帮助用户在互联网上快速搜索和定位特定的PDF文件。通过利用搜狗搜索引擎的强大功能，这款工具能够高效地在海量网页中找到包含您所需内容的PDF文件，极大地提高了信息检索的效率。1、在搜索框中输入您希望查找的关键词或短语，并确保关键词与您需要的PDF文件内容相关。2、点击“搜索”按钮，工具会利用搜狗搜索引擎在互联网上查找匹配的PDF文件。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_qE7QREEXy6k.png",
+    "logo_local_path": "logo_imgs/pdf_search.png",
+    "detail_page_url": "https://tool.browser.qq.com/pdf_search.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:37.264893",
+    "status": "todo"
+  },
+  {
+    "id": "sq38yd_whattoeat",
+    "name": "今天吃什么",
+    "tool_intro_usage": "今天吃什么是一款实用的在线工具，专为帮助用户快速决定每天吃什么而设计。让您不用再为每天吃什么而烦恼，让您实现快速、轻松的选餐过程，让您在日常生活中更加方便和快捷地选择健康优质的食物。1、点击“开始”按钮，系统会快速轮播食物的名字。2、点击“停止”按钮，轮播暂停，您可以看到系统为你随机选择的一种食物。3、停止之后，可以点击菜名右边的“详细”按钮，查看这种食物的一个详细信息。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_MsN8VafZqPT.png",
+    "logo_local_path": "logo_imgs/whattoeat.png",
+    "detail_page_url": "https://tool.browser.qq.com/whattoeat.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:40.526824",
+    "status": "todo"
+  },
+  {
+    "id": "ratxv9_calories",
+    "name": "卡路里查询",
+    "tool_intro_usage": "卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。1、 点击“选择文件”按钮，选择食物的图片进行上传。2、点击“开始处理”工具会为您查询图中食物详细的卡路里含量数据。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Dyw5N7vkd2Z.png",
+    "logo_local_path": "logo_imgs/calories.png",
+    "detail_page_url": "https://tool.browser.qq.com/calories.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:43.630387",
+    "status": "todo"
+  },
+  {
+    "id": "74wji7_startupname",
+    "name": "英文创业公司/项目名生成",
+    "tool_intro_usage": "英文创业公司/项目名生成是一款创意丰富的在线工具，专为帮助创业者和项目团队快速生成独特且有吸引力的英文公司或项目名称而设计。通过这款工具，您可以根据行业、关键词和风格偏好，生成多个符合您需求的名称选项，极大地提高了命名效率和创意灵感。1、在输入框中输入与您的公司或项目相关的关键词。这些关键词可以是行业术语、核心价值、产品特点等。2、点击“确认”按钮，工具会根据您的输入和选择，自动生成多个英文公司或项目名称选项。3、浏览生成的名称列表，选择最符合您需求和喜好的名称。您可以根据需要进行筛选和调整。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Nmhjg--B-2N.png",
+    "logo_local_path": "logo_imgs/startupname.png",
+    "detail_page_url": "https://tool.browser.qq.com/startupname.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:46.723105",
+    "status": "todo"
+  },
+  {
+    "id": "e471my_led",
+    "name": "手持弹幕LED",
+    "tool_intro_usage": "手持弹幕LED专为生成手持LED显示屏上的弹幕内容而设计。通过这款工具，您可以轻松创建个性化的弹幕文字，并将其显示在手持LED设备上，用于各种场合如演唱会、体育赛事、聚会等，增加互动性和趣味性。1、请选择您希望的文字滚动速度。2、在输入框中输入您希望显示的弹幕文字内容。您可以输入任意文本，如祝福语、加油口号、搞笑段子等。3、 确认弹幕效果满意后，点击“生成”按钮，工具会生成用于手持LED显示屏的弹幕视频。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_uKlrxP6XhFU.png",
+    "logo_local_path": "logo_imgs/led.png",
+    "detail_page_url": "https://tool.browser.qq.com/led.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:49.802681",
+    "status": "todo"
+  },
+  {
+    "id": "9r94cg_emoji",
+    "name": "文本颜艺",
+    "tool_intro_usage": "文本颜艺工具收录了大量的可爱颜文字，可以点击喜欢的颜文字进行复制。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_5XiSNXdAD6q.png",
+    "logo_local_path": "logo_imgs/emoji.png",
+    "detail_page_url": "https://tool.browser.qq.com/emoji.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:52.879447",
+    "status": "todo"
+  },
+  {
+    "id": "mhey7m_makename",
+    "name": "古诗词取名",
+    "tool_intro_usage": "古诗词取名在古诗词中提取灵感，为人名、公司名、项目名等进行命名而设计。您可以选择特定的古诗词，生成具有诗意和文化内涵的名字。1、输入您需要起名的姓氏，并选择想要取名的诗词来源，如诗经、楚辞等。2、点击“开始取名”，系统会根据您的选择生成相应的名字。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HACCPtmwZ8C.png",
+    "logo_local_path": "logo_imgs/makename.png",
+    "detail_page_url": "https://tool.browser.qq.com/makename.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:55.967652",
+    "status": "todo"
+  },
+  {
+    "id": "7j917l_carnumber",
+    "name": "车牌归属地",
+    "tool_intro_usage": "车牌在线查询工具，它提供全国各地车牌的序号，用户可以根据车牌查询用具快速了解车牌号属于的省市。使用方法：点击上方的省份简称，会自动跳转到相应的省份。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_YMLnLlw29K2.png",
+    "logo_local_path": "logo_imgs/carnumber.png",
+    "detail_page_url": "https://tool.browser.qq.com/carnumber.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:31:59.042818",
+    "status": "todo"
+  },
+  {
+    "id": "jujloc_phonenumber",
+    "name": "电话区号查询",
+    "tool_intro_usage": "电话区号查询工具，它提供了各地电话的序号，用户根据需要拨打的电话快速了解，所拨打的电话数据那个地区。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_rGe9zWcCn6Q.png",
+    "logo_local_path": "logo_imgs/phonenumber.png",
+    "detail_page_url": "https://tool.browser.qq.com/phonenumber.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:02.134716",
+    "status": "todo"
+  },
+  {
+    "id": "og1grg_fakeword",
+    "name": "英文人名生成",
+    "tool_intro_usage": "英文名生成可以帮助用户快速生成各种不同的英文名字，无论您是需要为小说角色、游戏角色、社交媒体账号，这款工具都能提供多种选项，满足您的需求。1、点击“生成”按钮，系统会为您随机生成英文名字。2、点击“继续生成”，系统会继续生成多个英文名字。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_78Zt-jVlA4p.png",
+    "logo_local_path": "logo_imgs/fakeword.png",
+    "detail_page_url": "https://tool.browser.qq.com/fakeword.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:05.241239",
+    "status": "todo"
+  },
+  {
+    "id": "49jyif_bloodtype",
+    "name": "血型遗传规律",
+    "tool_intro_usage": "血型遗传是一款专业的的血型遗传查询工具，可以为用户提供全面的血型遗传信息可以快速计算出后代血型，可以为您带来非常重要的参考和信息帮助。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_HxrgtyNJVYf.png",
+    "logo_local_path": "logo_imgs/bloodtype.png",
+    "detail_page_url": "https://tool.browser.qq.com/bloodtype.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:08.319364",
+    "status": "todo"
+  },
+  {
+    "id": "32jygf_iplocation",
+    "name": "IP归属地",
+    "tool_intro_usage": "IP归属地查询是一款实用的在线工具，专为查询IP地址的地理位置而设计。通过这款工具，您可以轻松输入一个IP地址，快速获取该IP地址的归属地信息，包括国家、地区、省市等，帮助您更好地了解网络访问来源和进行网络管理。1、在输入框中输入您希望查询的IP地址。2、点击“确认”按钮，工具会自动查询并显示该IP地址的归属地信息。3、在结果区域查看查询结果，包括IP地址的国家、地区、省市、ISP（互联网服务提供商）信息。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_knku2lIcj2M.png",
+    "logo_local_path": "logo_imgs/iplocation.png",
+    "detail_page_url": "https://tool.browser.qq.com/iplocation.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:11.424952",
+    "status": "todo"
+  },
+  {
+    "id": "icn2ko_random",
+    "name": "随机数生成",
+    "tool_intro_usage": "随机数生成是一款实用的在线工具，专为生成随机数而设计。通过这款工具，您可以根据指定的范围和数量，快速生成一组随机数，满足各种编程、统计分析、抽奖活动和日常需求。1、输入您想要生成随机数的区间，从数字几开始，从数字几结束。2、输入您想要生成随机数的个数，并考虑是否需要勾选“数字是否可重复”。3、点击“开始生成”按钮，系统将为您生成满足条件的随机数。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_iqblSwjdrvh.png",
+    "logo_local_path": "logo_imgs/random.png",
+    "detail_page_url": "https://tool.browser.qq.com/random.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:14.535027",
+    "status": "todo"
+  },
+  {
+    "id": "p6nrx3_kuaidi",
+    "name": "快递查询",
+    "tool_intro_usage": "快递查询是一款快递查询工具，为用户提供便捷的快递信息查询服务。它支持实时信息的查询，还可以按照发件人、收件人、快递公司等多种方式筛选快递信息。该功能可以查询当前最新的快递信息，包括发货时间、预计到达时间、运费等信息。用户可以在应用中设置自己的查询条件和过滤选项，方便快捷地获取自己需要的快递信息。为用户提供了便捷的快递信息查询服务，同时也注重用户隐私的保护",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_sJZUh5Eg6f-.png",
+    "logo_local_path": "logo_imgs/kuaidi.png",
+    "detail_page_url": "https://tool.browser.qq.com/kuaidi.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:17.635576",
+    "status": "todo"
+  },
+  {
+    "id": "97uxwn_hospitalrecommend",
+    "name": "医院推荐",
+    "tool_intro_usage": "医院推荐工具可以帮助您根据特定医疗需求，推荐合适的医院。通过这款工具，您可以快速找到相对应科室的优质医院，查看医院的详细信息和用户评价，便于您做出明智的医疗选择。使用方法：点击工具上方的科室，工具会为您推荐此科室对应的优质医院。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_cnKj4siWYcP.png",
+    "logo_local_path": "logo_imgs/hospitalrecommend.png",
+    "detail_page_url": "https://tool.browser.qq.com/hospitalrecommend.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:20.747334",
+    "status": "todo"
+  },
+  {
+    "id": "j17nut_calories_list",
+    "name": "食物热量表",
+    "tool_intro_usage": "食物热量表工具可以帮助您快速查阅各种食物的热量和营养成分信息。通过这款工具，您可以轻松找到每种食物的热量、蛋白质、脂肪、碳水化合物等数据，帮助您更好地进行饮食管理和健康规划。使用方法：选择食物类别，工具会为您显示此类别里面的食物名称和食物的热量。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_H7cCgh6_OoW.png",
+    "logo_local_path": "logo_imgs/calories_list.png",
+    "detail_page_url": "https://tool.browser.qq.com/calories_list.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:23.847299",
+    "status": "todo"
+  },
+  {
+    "id": "oosob6_food_calories",
+    "name": "卡路里查询",
+    "tool_intro_usage": "卡路里查询工具可以帮助您快速查阅各种食物的卡路里含量。通过这款工具，您可以轻松找到每种食物的热量信息，帮助您更好地进行饮食管理和健康规划，确保摄入适量的卡路里以维持健康的生活方式。1、输入食物名字，点击”查询“按钮，工具会为您查询食物以及相关食物的热量。2、点击”相机“图标，可以上传图片，工具会智能识别图片中的食物，生成食物热量表。3、常见食物分类区域点击想要查找的类别，可按照类别查看食物热量。4、点击”今天吃什么“，工具会给纠结的你提供一些建议。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_qtP78onbR8d.png",
+    "logo_local_path": "logo_imgs/food_calories.png",
+    "detail_page_url": "https://tool.browser.qq.com/food_calories.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:26.927760",
+    "status": "todo"
+  },
+  {
+    "id": "nmlyfx_timer",
+    "name": "世界时间校准",
+    "tool_intro_usage": "世界时间校准工具可以帮助您查看和校准全球各地的当前时间。通过这款工具，您可以轻松获取不同国家和城市的准确时间，便于进行国际交流、旅行计划和跨时区工作安排。使用方法：工具为您显示世界各地的不同时间。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_CYZyJTQPJkw.png",
+    "logo_local_path": "logo_imgs/timer.png",
+    "detail_page_url": "https://tool.browser.qq.com/timer.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:30.011556",
+    "status": "todo"
+  },
+  {
+    "id": "0eo99w_nick",
+    "name": "随机网名",
+    "tool_intro_usage": "随机网名生成是一款免费、在线的网名生成工具，它提供了当前最时尚、潮流的网名提供选择，简单易用、个性化程度高，可以为用户提供更多元、更有趣的网名选择，适合网络冲浪、网名更改的用户需求。使用方法：工具会为您自动生成一批简体、繁体、火星文网名，点击”换一换“可以换一批。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_nR2znTdzWSQ.png",
+    "logo_local_path": "logo_imgs/nick.png",
+    "detail_page_url": "https://tool.browser.qq.com/nick.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:33.096658",
+    "status": "todo"
+  },
+  {
+    "id": "img07y_number_acquisition",
+    "name": "快递信息提取",
+    "tool_intro_usage": "快递信息提取是一款免费的快递信息提供工具，主要针对快递信息提取例如：江西省南昌市青云谱区青江路X栋电话:xxxxxxxxxxx结果省:江西省市:南昌市县:青云谱区镇:青云谱区电话:xxxxxxxxxxx",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_ZYbl1AuH89F.png",
+    "logo_local_path": "logo_imgs/number_acquisition.png",
+    "detail_page_url": "https://tool.browser.qq.com/number_acquisition.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:36.187224",
+    "status": "todo"
+  },
+  {
+    "id": "xvklmy_zipcode",
+    "name": "邮编查询",
+    "tool_intro_usage": "邮编查询工具是一款免费的邮政编码查询工具，可以帮助用户查询全国各地的邮政编码信息。当用户需要查询邮政编码信息时，只需要选择对应的省就可以获取对应的邮编编码，邮编查询工具是一款实用、高效的邮政编码查询工具，适合对快递、邮件寄送用户。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_SxJdZfpPaVd.png",
+    "logo_local_path": "logo_imgs/zipcode.png",
+    "detail_page_url": "https://tool.browser.qq.com/zipcode.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:39.276728",
+    "status": "todo"
+  },
+  {
+    "id": "ef8fe8_shelflife",
+    "name": "保质期计算",
+    "tool_intro_usage": "保质期计算工具可以帮助您快速计算食品、药品或其他商品的保质期。通过这款工具，您可以输入生产日期和保质期天数，轻松计算出商品的到期日期，便于进行库存管理和消费计划。1、输入您需要计算保质期商品的生产日期。2、输入保质期天数。3、点击”开始计算“工具将为您计算商品的、保质期状态、剩余天数、到期日。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_e-bPbiVnFTw.png",
+    "logo_local_path": "logo_imgs/shelflife.png",
+    "detail_page_url": "https://tool.browser.qq.com/shelflife.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:42.397738",
+    "status": "todo"
+  },
+  {
+    "id": "ntbx1h_naming",
+    "name": "取名字",
+    "tool_intro_usage": "取名字工具是一款免费的工具，可以用来给自己的朋友和家人取名字，用户可以选择自己想要的姓名组合，满足自己的特定需求。取名字工具是一款操作简单、功能丰富、个性化的名字选取工具，可以满足用户的不同需求。使用方法：输入姓氏，选择性别，点击”取名“按钮工具将为您取名，再次点击”取名“可以换一批名字。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_JWrSWqyHbKc.png",
+    "logo_local_path": "logo_imgs/naming.png",
+    "detail_page_url": "https://tool.browser.qq.com/naming.html",
+    "category": "life",
+    "crawled_at": "2026-05-05T00:32:45.488369",
+    "status": "todo"
+  },
+  {
+    "id": "zz03pf_handwriting_erasure",
+    "name": "去手写",
+    "tool_intro_usage": "去手写是一款专为处理文件中的手写笔迹而设计的在线工具。它能够智能识别并抹除文件中的手写内容，如笔记、标注和答案，从而还原干净的试卷或文档，方便用户重新练习或使用。1、点击“上传文件”按钮或将文件拖放到指定区域，以上传您需要处理的PDF文件。2、文件上传完成后，工具会自动开始识别文件中的手写笔迹。3、点击“开始处理”按钮，工具将自动抹除选定的手写内容并还原干净的PDF文件。4、处理完成后，你可将擦除笔记后的文件保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_PLIH-GtGXkL.png",
+    "logo_local_path": "logo_imgs/handwriting_erasure.png",
+    "detail_page_url": "https://tool.browser.qq.com/handwriting_erasure.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:32:48.577404",
+    "status": "todo"
+  },
+  {
+    "id": "gv8wpy_zitie_new",
+    "name": "字帖生成",
+    "tool_intro_usage": "字帖生成是一款在线工具，专为生成个性化字帖而设计。通过这款工具，您可以选择不同的模板、年级，快速生成适合练习书写的字帖。1、选择您要生成字帖的模板、年级2、点击打印按钮可将字帖打印下来",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_mfZWm5RYfb5.png",
+    "logo_local_path": "logo_imgs/zitie_new.png",
+    "detail_page_url": "https://tool.browser.qq.com/zitie_new.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:32:51.667314",
+    "status": "todo"
+  },
+  {
+    "id": "3aicaw_relatives_name",
+    "name": "亲戚关系计算",
+    "tool_intro_usage": "亲戚关系计算可以帮助用户快速计算两个或多个对象之间复杂的亲戚关系。亲戚关系计算操作简单易用，只需要打开工具，选择需要计算的亲戚关系，点击“计算”按钮即可得到准确的计算结果。方便用户根据实际情况进行灵活选择和使用。1、首先选择是否是对方称呼我，如选择系统会生成在这种亲戚关系中对方怎样称呼您，未选择即代表您要生成在这种亲戚关系中您怎样去称呼对方。2、选择您的性别。3、选择您要找的称谓，比如说“弟弟的老婆”，选择之后系统会自动计算称呼并且显示在底部。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_5QJiaZbeCPA.png",
+    "logo_local_path": "logo_imgs/relatives_name.png",
+    "detail_page_url": "https://tool.browser.qq.com/relatives_name.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:32:54.747826",
+    "status": "todo"
+  },
+  {
+    "id": "op6lgo_school",
+    "name": "高校查询",
+    "tool_intro_usage": "高校查询可以快速找到中国境内知名大学的相关信息， 应用汇聚了全国各地的知名大学，包括清华大学、北京大学、南京大学、浙江大学、复旦大学、上海交通大学等等。能够帮助高考学生和家长们更好的选择学校。1、您可以选择查看985、211、一流学科等类别。2、系统将为您跳转对应的高校。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_aI87pFy9qgC.png",
+    "logo_local_path": "logo_imgs/school.png",
+    "detail_page_url": "https://tool.browser.qq.com/school.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:32:57.830930",
+    "status": "todo"
+  },
+  {
+    "id": "gsoov9_wordcount",
+    "name": "字数计算",
+    "tool_intro_usage": "字数计算专为快速计算文本中的字数、字符数、单词数和句子数而设计。无论您是需要统计文章的字数、检查字符限制，还是进行文本分析，这款工具都能帮助您高效完成任务。1、在文本输入框中输入或粘贴您需要计算的文本内容。2、工具会自动计算并显示文本的字数、字符数。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_RT-rk3FR-r3.png",
+    "logo_local_path": "logo_imgs/wordcount.png",
+    "detail_page_url": "https://tool.browser.qq.com/wordcount.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:00.929244",
+    "status": "todo"
+  },
+  {
+    "id": "0p3ilt_dynasties",
+    "name": "历史朝代查询",
+    "tool_intro_usage": "历史朝代查询是一款教育性和实用性兼备的在线工具，专为帮助用户快速查询和了解各个历史朝代的相关信息而设计。通过这款工具，您可以轻松获取各个朝代的起止时间、重要事件、著名人物等信息，帮助您更好地学习和理解历史。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_M4UejcjNNLA.png",
+    "logo_local_path": "logo_imgs/dynasties.png",
+    "detail_page_url": "https://tool.browser.qq.com/dynasties.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:04.020051",
+    "status": "todo"
+  },
+  {
+    "id": "svqrzq_capital",
+    "name": "各国首都",
+    "tool_intro_usage": "各国首都查询是一款实用的在线工具，专为帮助用户快速查询世界各国首都而设计。通过这款工具，您可以轻松获取各个国家的首都信息，帮助您更好地了解世界地理知识，满足学习、工作和旅行等需求。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_jdB6qNUoFvz.png",
+    "logo_local_path": "logo_imgs/capital.png",
+    "detail_page_url": "https://tool.browser.qq.com/capital.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:07.144714",
+    "status": "todo"
+  },
+  {
+    "id": "d135ky_jielong",
+    "name": "成语接龙",
+    "tool_intro_usage": "成语接龙工具可以帮助您进行成语接龙游戏，提升您的汉语词汇量和语言表达能力。通过这款工具，您可以输入一个成语，工具会自动生成下一个接龙成语，帮助您继续游戏，适用于学习、娱乐和语言训练等场景。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_ESsECZTMRls.png",
+    "logo_local_path": "logo_imgs/jielong.png",
+    "detail_page_url": "https://tool.browser.qq.com/jielong.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:10.253958",
+    "status": "todo"
+  },
+  {
+    "id": "v19iff_markmap",
+    "name": "便捷思维导图",
+    "tool_intro_usage": "便捷思维导图工具可以帮助您快速创建、编辑和分享思维导图，提升您的思维整理和信息管理能力。通过这款工具，您可以轻松将想法、计划和知识结构化地呈现出来，适用于学习、工作、项目管理和创意设计等多种场景。1、根据左侧示例格式，可以复制您的工作或学习文档，您也可当场输入文字。2、一级标题前面加#、二级标题前面加##、三级标题前面加###，正文前面加-，符号和文字之间有空格。3、点击渲染导图，工具会将您输入的内容生成思维导图。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_bQ-p2YBsK6u.png",
+    "logo_local_path": "logo_imgs/markmap.png",
+    "detail_page_url": "https://tool.browser.qq.com/markmap.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:13.342073",
+    "status": "todo"
+  },
+  {
+    "id": "dza6mj_hanzifayin",
+    "name": "汉字标准发音",
+    "tool_intro_usage": "汉字标准发音工具可以帮助您学习和掌握汉字的标准发音。通过这款工具，您可以输入任意汉字或词语，工具会自动提供标准的拼音和发音，便于您进行语言学习、发音练习和教学辅助。1、在框内输入您想要学习的文字。2、点击“标准发音”按钮，工具会帮助您标准读取汉字。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_JTXa_lLHuPQ.png",
+    "logo_local_path": "logo_imgs/hanzifayin.png",
+    "detail_page_url": "https://tool.browser.qq.com/hanzifayin.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:16.431585",
+    "status": "todo"
+  },
+  {
+    "id": "bl9d5q_periodic",
+    "name": "元素周期表",
+    "tool_intro_usage": "元素周期表工具可以帮助您快速查阅和了解化学元素的详细信息，您可以轻松找到每个元素的原子序数、符号、名称、原子量、电子排布等信息，适用于学习、教学和科学研究等场景。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_zmxsNOQj-Ex.png",
+    "logo_local_path": "logo_imgs/periodic.png",
+    "detail_page_url": "https://tool.browser.qq.com/periodic.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:19.556087",
+    "status": "todo"
+  },
+  {
+    "id": "ky3wjw_translate",
+    "name": "翻译",
+    "tool_intro_usage": "翻译工具可以帮助您将文本从一种语言翻译成另一种语言。通过这款工具，您可以轻松进行多语言翻译，满足学习、工作、旅行和日常交流等需求。翻译工具支持多种语言，提供准确和快速的翻译服务。1、您可以选择想要的翻译网站，例如搜狗翻译、有道翻译。2、设置您要翻译前后的语言类型。3、工具会自动为您将结果显示在相应区域。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_evABSEpv1y-.png",
+    "logo_local_path": "logo_imgs/translate.png",
+    "detail_page_url": "https://tool.browser.qq.com/translate.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:22.637004",
+    "status": "todo"
+  },
+  {
+    "id": "qgexdz_radical",
+    "name": "汉字偏旁",
+    "tool_intro_usage": "汉字偏旁工具可以帮助您查找和学习汉字的偏旁部首。通过这款工具，您可以输入汉字，快速获取该汉字的偏旁部首信息，了解其构造和意义，便于汉字学习和教学。1、在输入框中输入您希望查询的汉字。2、点击“查询”按钮，工具会自动检索并显示该汉字的偏旁部首信息。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_BAMJebHHnfG.png",
+    "logo_local_path": "logo_imgs/radical.png",
+    "detail_page_url": "https://tool.browser.qq.com/radical.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:25.717657",
+    "status": "todo"
+  },
+  {
+    "id": "185uje_allegory",
+    "name": "歇后语",
+    "tool_intro_usage": "歇后语工具可以帮助您查找和学习各种歇后语。通过这款工具，您可以输入歇后语的前半部分或关键词，快速获取完整的歇后语及其解释，便于语言学习、文化了解和日常交流。1、在输入框中输入您希望查询的歇后语的关键词或前半部分。例如，输入“猫哭耗子”或“猫”。2、 点击“查询”按钮，工具会自动检索并显示相关的歇后语及其解释。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_LgMaUNruKSv.png",
+    "logo_local_path": "logo_imgs/allegory.png",
+    "detail_page_url": "https://tool.browser.qq.com/allegory.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:28.854595",
+    "status": "todo"
+  },
+  {
+    "id": "vvqcg3_explain",
+    "name": "词语注解",
+    "tool_intro_usage": "词语注解工具可以帮助您查找和学习词语的详细解释和用法。通过这款工具，您可以输入任意词语，快速获取该词语的注解、拼音、词性、例句等信息，便于语言学习、写作和日常交流。1、在输入框中输入您希望查询的词语。2、点击“查询”按钮，工具会自动检索并显示该词语的详细注解。3、在结果区域查看所查询词语的详细注解。4、根据工具提供的词语注解信息，进行语言学习和理解。您可以输入更多词语，继续查询和学习。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_0LtgddfOhwt.png",
+    "logo_local_path": "logo_imgs/explain.png",
+    "detail_page_url": "https://tool.browser.qq.com/explain.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:31.947262",
+    "status": "todo"
+  },
+  {
+    "id": "g9a7f6_chengyujielong",
+    "name": "成语大全",
+    "tool_intro_usage": "成语大全查询是一款免费的中国传统文化知识工具，它收录了上亿个成语能够通过用户需求快速查询。1、您可以选择查询方式，查询方式有：汉字、拼音、笔画数。2、输入查询条件：1）汉字查询方式：输入想要查询成语的首字2）拼音查询方式：输入成语首字拼音和音调，例如输入”yi4“,工具会为您生成”易“、”议“同音字开头的成语3）笔画查询方式：输入想要查询成语的笔画3、选择查询方式并输入查询条件结束后，点击查询，工具会为您查询相应的成语。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_UVpYlcJGb3t.png",
+    "logo_local_path": "logo_imgs/chengyujielong.png",
+    "detail_page_url": "https://tool.browser.qq.com/chengyujielong.html",
+    "category": "education",
+    "crawled_at": "2026-05-05T00:33:35.023992",
+    "status": "todo"
+  },
+  {
+    "id": "ifon5c_tts",
+    "name": "文本转语音",
+    "tool_intro_usage": "文本转语音是一款先进的在线工具，专为将文字内容转换为自然流畅的语音而设计。无论您是需要将文章、报告、电子书或其他文本内容转换为语音，这款工具都能快速高效地完成任务，帮助您实现听书、听报告等多种应用场景，提升信息获取的便捷性。1、在文本输入框中输入或粘贴您希望转换为语音的文字内容。2、点击“开始转换”按钮，工具会将您输入的文字进行转换。3、转换成功后，可以在线播放转换后的语音，也可以将其下载到设备。",
+    "tags": [
+      "hot"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_NBRdTyfbzkq.png",
+    "logo_local_path": "logo_imgs/tts.png",
+    "detail_page_url": "https://tool.browser.qq.com/tts.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:38.110424",
+    "status": "done"
+  },
+  {
+    "id": "fj9wsp_chinese",
+    "name": "简体繁体转换",
+    "tool_intro_usage": "简体繁体转换是一款便捷的在线工具，专为将简体中文和繁体中文之间进行转换而设计。通过这款工具，您可以轻松将文本从简体中文转换为繁体中文，或从繁体中文转换为简体中文，满足各种语言处理、文档编辑和跨地区交流的需求。1、在文本输入框中输入或粘贴您希望转换的中文文本内容。2、选择您希望进行的转换方向，可以点击“简体转繁体”或“繁体转简体”。3、点击按钮之后，工具会自动将输入的文本进行转换，并显示转换后的文本内容。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_RD4pSnBI2B7.png",
+    "logo_local_path": "logo_imgs/chinese.png",
+    "detail_page_url": "https://tool.browser.qq.com/chinese.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:41.196802",
+    "status": "done"
+  },
+  {
+    "id": "6yqo6r_textdiff",
+    "name": "文本比较",
+    "tool_intro_usage": "文本比较是一款实用的在线工具，专为比较两个文本内容的差异而设计。通过这款工具，您可以轻松输入或上传两个文本，快速找出它们之间的不同之处，包括新增、删除和修改的部分，帮助您更好地进行文档校对、代码审查和内容对比。1、在两个文本输入框中分别输入或粘贴您希望比较的文本内容。2、选择比较类型，类型包含文本比较、段落比较、CSS语法比较等。3、点击“开始对比”按钮，工具会自动分析并显示两个文本之间的差异。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_F7W4NJKYDcx.png",
+    "logo_local_path": "logo_imgs/textdiff.png",
+    "detail_page_url": "https://tool.browser.qq.com/textdiff.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:44.307864",
+    "status": "done"
+  },
+  {
+    "id": "wn4lof_tta",
+    "name": "文字转拼音",
+    "tool_intro_usage": "文字转拼音工具可以帮助您将中文文本转换为拼音，便于学习和理解汉字的发音。无论是用于语言学习、教学辅助，还是其他需要拼音标注的场景，这款工具都能满足您的需求，帮助您轻松将汉字转换为拼音。1、根据需要，选择拼音的显示格式。2、在输入框中输入或粘贴您希望转换为拼音的中文文本内容。3、工具会自动在结果显示区域显示转换的拼音。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_1k4MlAY6R8q.png",
+    "logo_local_path": "logo_imgs/tta.png",
+    "detail_page_url": "https://tool.browser.qq.com/tta.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:47.395516",
+    "status": "done"
+  },
+  {
+    "id": "fv9viz_toMars",
+    "name": "火星文翻译器",
+    "tool_intro_usage": "火星文翻译器可以帮助您将普通文本转换为火星文，或将火星文转换回普通文本。火星文是一种网络流行的文字变形形式，通过这款工具，您可以轻松进行火星文的转换，增加文字的趣味性和个性化，适用于社交媒体、聊天和创意写作等场景。1、输入您想要翻译的常规文字或者火星文。2、点击”飞向火星“，工具会将你输入的文字转化成火星文。3、点击”返回地球“，工具会将你输入的火星文转化成普通文字。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_DsPgT4vuZDw.png",
+    "logo_local_path": "logo_imgs/toMars.png",
+    "detail_page_url": "https://tool.browser.qq.com/toMars.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:50.483597",
+    "status": "done"
+  },
+  {
+    "id": "1m1mux_unique",
+    "name": "文本去重",
+    "tool_intro_usage": "文本去重工具可以帮助您快速去除文本中的重复内容。通过这款工具，您可以输入或粘贴文本，工具会自动识别并删除重复的行或段落，确保文本的唯一性和整洁性，适用于数据处理、文档编辑和内容管理等场景。1、在输入框中输入或粘贴您希望去重的文本内容。您可以输入任意长度的文本，包括多行或多段内容。2、点击“开始去重”按钮，工具会自动识别并删除文本中的重复内容，并显示去重后的结果。3、在结果区域查看去重后的文本内容，您可以根据需要复制结果。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_BD03AmYZ2G4.png",
+    "logo_local_path": "logo_imgs/unique.png",
+    "detail_page_url": "https://tool.browser.qq.com/unique.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:53.562672",
+    "status": "done"
+  },
+  {
+    "id": "k1xylu_text_secret_msg",
+    "name": "文字隐写",
+    "tool_intro_usage": "文字隐写工具可以帮助您将文本信息隐藏在其他文本中，实现信息的隐秘传输和存储。通过这款工具，您可以将敏感信息嵌入到普通文本中，只有使用特定工具或密钥才能提取，适用于信息安全、隐私保护和数据隐藏等场景。1、在输入框中输入或粘贴您希望用来隐藏信息的载体文本。2、在另一个输入框中输入您希望隐藏的文本信息。3、点击“生成”按钮，工具会将输入的文本信息嵌入到载体文本中，并生成一个包含隐藏信息的新文本。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_s73N2Rq-6MZ.png",
+    "logo_local_path": "logo_imgs/text_secret_msg.png",
+    "detail_page_url": "https://tool.browser.qq.com/text_secret_msg.html",
+    "category": "text",
+    "crawled_at": "2026-05-05T00:33:56.650848",
+    "status": "done"
+  },
+  {
+    "id": "p6r7eq_word_2_pdf",
+    "name": "Word转PDF",
+    "tool_intro_usage": "Word转PDF是一款用户友好的在线转换服务，用于将Microsoft Word文档（包括DOC和DOCX格式）转换为便携式文档格式（PDF）。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_ZY-gWQ56cac.png",
+    "logo_local_path": "logo_imgs/word_2_pdf.png",
+    "detail_page_url": "https://tool.browser.qq.com/word_2_pdf.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:33:59.754220",
+    "status": "todo"
+  },
+  {
+    "id": "2x3ri1_word_convert",
+    "name": "Word格式转换",
+    "tool_intro_usage": "Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。1、选择您希望转换到的目标格式：PNG、HTML或PDF。2、点击“上传”按钮，上传需要转换的Word文档。3、点击“转换”按钮，开始将Word文档转换为选定的格式。4、转换完成后，你可将转换后的文件保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_uPdVHC5CWkO.png",
+    "logo_local_path": "logo_imgs/word_convert.png",
+    "detail_page_url": "https://tool.browser.qq.com/word_convert.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:02.875864",
+    "status": "todo"
+  },
+  {
+    "id": "2o56jl_ppt_convert",
+    "name": "PPT格式转换",
+    "tool_intro_usage": "Word格式转换是一款功能强大的文档格式转换工具，支持将Word文档转换为图片、HTML及PDF等格式。1、选择您希望转换到的目标格式：PNG、HTML或PDF。2、点击“上传”按钮，上传需要转换的Word文档。3、点击“转换”按钮，开始将Word文档转换为选定的格式。4、转换完成后，你可将转换后的文件保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_8CErxGA80bl.png",
+    "logo_local_path": "logo_imgs/ppt_convert.png",
+    "detail_page_url": "https://tool.browser.qq.com/ppt_convert.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:05.959398",
+    "status": "todo"
+  },
+  {
+    "id": "6lc7no_excel_to_pdf",
+    "name": "Excel转PDF",
+    "tool_intro_usage": "Excel转PDF是一款专业的电子表格处理工具，能够轻松地将Excel文件转为PDF文件",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_-LGiOePfa6A.png",
+    "logo_local_path": "logo_imgs/excel_to_pdf.png",
+    "detail_page_url": "https://tool.browser.qq.com/excel_to_pdf.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:09.039814",
+    "status": "todo"
+  },
+  {
+    "id": "yjm2h8_office_reduce",
+    "name": "文档瘦身",
+    "tool_intro_usage": "文档能够对文档中的PNG和JPEG图像进行高效压缩，从而显著减小文档的整体大小。这款工具特别适合包含大量图片的文档，如报告、演示文稿和电子书，帮助用户节省存储空间并提高传输效率，同时尽量保持图片的质量。1、点击“上传文件”按钮或将包含图片的文档（如PDF、Word等）拖放到指定区域，以上传您需要压缩的文档。2、文件上传完成后，工具会自动扫描文档中的PNG和JPEG图像。3、点击“开始压缩”按钮，工具将自动对文档内的图片进行压缩处理4、处理完成后，你可将瘦身后的文件保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_WvXh7JVhmPe.png",
+    "logo_local_path": "logo_imgs/office_reduce.png",
+    "detail_page_url": "https://tool.browser.qq.com/office_reduce.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:12.124232",
+    "status": "todo"
+  },
+  {
+    "id": "39c7kc_ppt_2_pdf",
+    "name": "PPT转PDF",
+    "tool_intro_usage": "PPT转PDF是一款在线工具，能够快速将PowerPoint演示文稿（PPT或PPTX格式）转换为PDF文件，确保格式和布局一致，方便分享和打印。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_KKVR0LhvfMx.png",
+    "logo_local_path": "logo_imgs/ppt_2_pdf.png",
+    "detail_page_url": "https://tool.browser.qq.com/ppt_2_pdf.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:15.211016",
+    "status": "todo"
+  },
+  {
+    "id": "wpj8tb_excel_convert",
+    "name": "Excel格式转换",
+    "tool_intro_usage": "Excel格式转换是一款多功能的在线工具，专为将Excel文件（XLS或XLSX格式）转换为其他常见文件格式而设计。1、选择您希望转换到的目标格式：PNG、HTML或PDF。2、点击“上传”按钮，上传需要转换的Excel文档。3、点击“转换”按钮，开始将Excel文档转换为选定的格式。4、转换完成后，你可将转换后的文件保存到您的设备。",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_dvNTssJSmO9.png",
+    "logo_local_path": "logo_imgs/excel_convert.png",
+    "detail_page_url": "https://tool.browser.qq.com/excel_convert.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:18.295838",
+    "status": "todo"
+  },
+  {
+    "id": "42vd5k_table_recognize",
+    "name": "图片转Excel",
+    "tool_intro_usage": "图片转Excel工具通过先进的图像识别技术，自动识别图片中的表格内容，并将其转换为可编辑的Excel格式。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_F7W4NJKYDcx.png",
+    "logo_local_path": "logo_imgs/table_recognize.png",
+    "detail_page_url": "https://tool.browser.qq.com/table_recognize.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:21.394618",
+    "status": "todo"
+  },
+  {
+    "id": "pgn70f_word_scan",
+    "name": "文档扫描",
+    "tool_intro_usage": "文档扫描工具可以帮助您将纸质文档或图片转换为数字化的电子文档。通过这款工具，您可以上传图片文件，轻松扫描文档并生成高质量的Word文件，适用于文档存档、分享和管理等场景。1、点击“选择文件”按钮，选择您希望扫描的文件图片，或将文件拖放到指定区域进行上传。2、点击”扫描转WORD“按钮，工具会将您上传的文件转换成WORD文档。3、点击”下载“按钮，可以将文件下载到本地。",
+    "tags": [
+      "vip"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_gmTyrp1HHiw.png",
+    "logo_local_path": "logo_imgs/word_scan.png",
+    "detail_page_url": "https://tool.browser.qq.com/word_scan.html",
+    "category": "doc",
+    "crawled_at": "2026-05-05T00:34:24.493115",
+    "status": "todo"
+  },
+  {
+    "id": "dxnz15_password_check",
+    "name": "密码安全检测",
+    "tool_intro_usage": "保护您的数字安全！只需输入密码，我们的密码安全检测工具即刻为您进行全面检测。快速评估密码强度，提供改进建议，确保您的账户防护坚不可摧。安全隐私，从强密码开始。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_au5_1WI2dgn.png",
+    "logo_local_path": "logo_imgs/password_check.png",
+    "detail_page_url": "https://tool.browser.qq.com/password_check.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:27.575256",
+    "status": "todo"
+  },
+  {
+    "id": "ef2dgy_file_scan",
+    "name": "文件安全检测",
+    "tool_intro_usage": "文件防护，一扫即净！上传任意文件，我们的文件安全检测工具立即展开深度检测。快速识别潜在威胁，确保文件无病毒、无恶意软件，保障您的数据安全。信赖我们，让安全检测变得简单高效。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_SLn3B2xJR8R.png",
+    "logo_local_path": "logo_imgs/file_scan.png",
+    "detail_page_url": "https://tool.browser.qq.com/file_scan.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:30.734488",
+    "status": "todo"
+  },
+  {
+    "id": "bk6z3y_app_inspector",
+    "name": "手机安装包检测",
+    "tool_intro_usage": "手机软件，安全至上！上传您的手机安装包，让我们的检测工具为您提供全面的软件风险查询。从权限审查到行为分析，确保每个应用安全可靠，无隐患。安心安装，放心使用，我们守护您的数字生活。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_lzHzicUGveV.png",
+    "logo_local_path": "logo_imgs/app_inspector.png",
+    "detail_page_url": "https://tool.browser.qq.com/app_inspector.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:33.830625",
+    "status": "todo"
+  },
+  {
+    "id": "fekyf2_colortrans",
+    "name": "颜色转换",
+    "tool_intro_usage": "颜色代码转换工具可以帮助用户将多种颜色代码转换为Hex、RGB或HSL格式，例如： Hex格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) RGB格式的颜色代码转换工具： Fonts.fire({\"color\"： \"red\", \"style\"： \"dark gray\"}) HSL格式的颜色代码转换工具： Fonts.fire({\"color\"： \"blue\", \"style\"： \"light yellow\"})1、根据需要，选择您希望输入的颜色代码格式。常见的选项包括：Hex格式、RGB格式、HSL格式。2、在输入框中输入您希望转换的颜色代码。例如：Hex格式：#FF5733RGB格式：rgb(255, 87, 51)HSL格式：hsl(9, 100%, 60%)3、 点击“转换”按钮，工具会自动将输入的颜色代码进行转换，并显示转换后的结果。4、 在结果区域查看转换后的颜色代码。您可以根据需要复制结果，或进行进一步的使用和处理。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_8G8vjr4flQI.png",
+    "logo_local_path": "logo_imgs/colortrans.png",
+    "detail_page_url": "https://tool.browser.qq.com/colortrans.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:36.919012",
+    "status": "todo"
+  },
+  {
+    "id": "w7j1f8_jsondiff",
+    "name": "JSON对比",
+    "tool_intro_usage": "diff工具用于比较两个JSON对象之间的差异，这个工具可以用于比较配置文件的变化、版本控制等场景。使用该工具，您可以输入两个JSON对象，它会自动比较这两个对象，并生成一个描述它们之间差异的JSON对象。使用JSON diff工具很容易，您只需要输入两个JSON对象，即可获得它们之间的差异描述。这个工具支持任意大小和结构的JSON对象，并提供易于理解的输出以进行快速处理。1、输入JSON和您需要对比的JSON。2、点击“开始对比”按钮，系统会并生成一个描述它们之间差异的JSON对象。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_W9TfzY7iVfZ.png",
+    "logo_local_path": "logo_imgs/jsondiff.png",
+    "detail_page_url": "https://tool.browser.qq.com/jsondiff.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:40.030342",
+    "status": "todo"
+  },
+  {
+    "id": "s4b3sg_jsoncheck",
+    "name": "JSON校验",
+    "tool_intro_usage": "JSON检验是一款免费的、高效的Json检验工具，适合所有JavaScript开发人员使用，旨在通过实时监测和分析Json文件来诊断和排除潜在的JavaScript错误。1、输入in需要校验的JASON对象。2、点击“确认”按钮，系统会帮助您进行校验。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_1e-k0XDsjkj.png",
+    "logo_local_path": "logo_imgs/jsoncheck.png",
+    "detail_page_url": "https://tool.browser.qq.com/jsoncheck.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:43.112422",
+    "status": "todo"
+  },
+  {
+    "id": "fnut2k_md5",
+    "name": "md5加密",
+    "tool_intro_usage": "MD5加密工具是一款安全高效的密码强度评估工具，可以方便地用于各种在线活动和应用程序中。它基于流行的 MD5 算法，是一款安全、可靠、易用的密码强度评估工具，可帮助用户有效地保护敏感信息和隐私。1、在第上方输入框内输入你想md5加密的内容。2、点击确认按钮就可以生成需要的md5密码。3、复制下方框中md5密码就可以进行使用。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_zW42CaNVFN2.png",
+    "logo_local_path": "logo_imgs/md5.png",
+    "detail_page_url": "https://tool.browser.qq.com/md5.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:46.188373",
+    "status": "todo"
+  },
+  {
+    "id": "48c8ry_unicode",
+    "name": "Unicode编解码",
+    "tool_intro_usage": "Unicode编解码是一款实用的在线工具，专为将文本进行Unicode编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为Unicode编码形式，或将Unicode编码转换回普通文本，满足各种编程、数据处理和文本处理需求。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_hVG1krEmUTc.png",
+    "logo_local_path": "logo_imgs/unicode.png",
+    "detail_page_url": "https://tool.browser.qq.com/unicode.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:49.311045",
+    "status": "todo"
+  },
+  {
+    "id": "seunxd_urlencode",
+    "name": "url编解码",
+    "tool_intro_usage": "URL编解码是一款实用的在线工具，专为将URL（统一资源定位符）进行编码和解码而设计。通过这款工具，您可以轻松将普通文本转换为URL编码形式，或将URL编码转换回普通文本，满足各种网页开发、数据传输和文本处理需求。1、在输入框中输入您希望进行编码或解码的文本内容。2、 选择您希望进行的操作类型，可以选择“编码”或“解码”。3、点击您想要的操作类型之后，工具会自动将输入的文本进行编码或解码，并显示转换后的结果。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_6LpoMftxySA.png",
+    "logo_local_path": "logo_imgs/urlencode.png",
+    "detail_page_url": "https://tool.browser.qq.com/urlencode.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:52.401326",
+    "status": "todo"
+  },
+  {
+    "id": "cfnn5p_jsonbeautify",
+    "name": "JSON格式化",
+    "tool_intro_usage": "JSON格式化是一款实用的在线工具，专为将JSON数据进行格式化和美化而设计。通过这款工具，您可以轻松将杂乱无章的JSON数据转换为结构清晰、易于阅读的格式，帮助您更好地进行数据分析、调试和开发工作。1、在输入框中输入或粘贴您希望格式化的JSON数据。2、点击“格式化”按钮，工具会自动将输入的JSON数据进行格式化，并显示格式化后的结果。3、在结果区域查看格式化后的JSON数据。您可以根据需要复制结果，或进行进一步的编辑和使用。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_wzKfqyUFXhZ.png",
+    "logo_local_path": "logo_imgs/jsonbeautify.png",
+    "detail_page_url": "https://tool.browser.qq.com/jsonbeautify.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:55.483465",
+    "status": "todo"
+  },
+  {
+    "id": "pjqnh9_crypto",
+    "name": "在线加解密",
+    "tool_intro_usage": "在线加解密工具可以帮助用户对文本进行加密和解密，确保数据的安全性和隐私性。通过这款工具，您可以使用多种加密算法对敏感信息进行加密保护，或对已加密的信息进行解密，适用于数据传输、信息保护和安全通信等场景。1、 在输入框中输入您希望加密或解密的文本内容。2、选择您希望使用的加密算法。3、根据所选加密算法的要求，输入加密或解密所需的密钥或密码。4、选择“加密”或“解密”按钮。5、点击“开始转换”按钮，工具会为您的文本进行加解密处理。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_swCSu1w47gt.png",
+    "logo_local_path": "logo_imgs/crypto.png",
+    "detail_page_url": "https://tool.browser.qq.com/crypto.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:34:58.597755",
+    "status": "todo"
+  },
+  {
+    "id": "yfa1jq_urlparse",
+    "name": "URL解析",
+    "tool_intro_usage": "URL解析是一款免费的在线域名处理工具，可以帮助您快速理解如何解析常见的URL格式，获取到域名请求方法，让你更快理解站点请求方式，无论您是新手还是专家都可以提高你的工作效率1、在输入框输入您想要解析的内容文本。2、点击确认按钮，工具会将解析结果显示在结果区域。3、您可以复制结果或按照需要编辑后用于工作等。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_0fb8zCCXfrd.png",
+    "logo_local_path": "logo_imgs/urlparse.png",
+    "detail_page_url": "https://tool.browser.qq.com/urlparse.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:01.698170",
+    "status": "todo"
+  },
+  {
+    "id": "nn48bn_pwdgenerator",
+    "name": "随机密码生成",
+    "tool_intro_usage": "随机密码生成专为生成强大且安全的随机密码而设计。通过这款工具，您可以根据指定的长度和字符类型，快速生成高强度的随机密码，帮助您保护账户安全，防止密码被破解。1、设置开始和结束的随机范围数，输入生成随机数的个数2、选择数字是否可重复。3、点击“开始生成”按钮，工具会为您生成相对应的随机数。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_-X1fIIas2Dp.png",
+    "logo_local_path": "logo_imgs/pwdgenerator.png",
+    "detail_page_url": "https://tool.browser.qq.com/pwdgenerator.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:04.782680",
+    "status": "todo"
+  },
+  {
+    "id": "w09dzv_base64",
+    "name": "base64编码",
+    "tool_intro_usage": "Base64编码是一种常用的数据编码方式，能够将二进制数据转换为文本格式，便于在网络传输和数据存储中使用。通过这款工具，您可以轻松进行Base64编码和解码，满足各种编程、数据处理和网络传输需求。1、点击“上传文件”按钮，选择您想要编码的文件。2、文本在第一个输入框输入文字可以自动转换base64码。3、图片点击“UPLOAD”上传一张图片也可以自动转换base64码。4、点击复制就可以再你需要地方应用base64码。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_THyKkVsmrAS.png",
+    "logo_local_path": "logo_imgs/base64.png",
+    "detail_page_url": "https://tool.browser.qq.com/base64.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:07.871007",
+    "status": "todo"
+  },
+  {
+    "id": "tiuvmn_markdown",
+    "name": "markdown编辑器",
+    "tool_intro_usage": "Markdown编辑器是一款简单易用的文字处理和排版工具，旨在帮助用户快速创建专业、高效、优美的文档。它采用 Markdown 语法，能够有效提升文档的可读性和易用性，同时也具备良好的兼容性和扩展性。 可以使用Markdown编辑器直接输入或粘贴文本、段落、标题等，从而创建一个完整的文档。 Markdown编辑器是一款非常出色的文字处理和排版工具，对于经常编写论文、报告、博客等的用户来说，是非常值得尝试的一款软件。1、您可以在编辑区域写入您想要的内容。2、工具上方有字体大小、文字加粗、文字倾斜等功能。3、编辑完成之后可以将文本导出为MARKDOWN或者导出为HTML。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_eTqlrsqMyUh.png",
+    "logo_local_path": "logo_imgs/markdown.png",
+    "detail_page_url": "https://tool.browser.qq.com/markdown.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:10.959206",
+    "status": "todo"
+  },
+  {
+    "id": "rux5t5_regexp",
+    "name": "正则校验",
+    "tool_intro_usage": "正则校验工具可以帮助您测试和验证正则表达式的匹配效果。无论是用于编程、数据处理，还是文本分析，这款工具都能满足您的需求，帮助您轻松编写和调试正则表达式，确保其正确性和有效性。1、请选择您希望测试的正则表达式。2、在另一个输入框中输入您希望用来测试正则表达式的文本内容。3、根据需要，选择正则表达式的匹配模式，如全局匹配、忽略大小写。4、具会自动使用输入的正则表达式对测试文本进行匹配，并显示匹配结果。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_vwDRkSoHN4q.png",
+    "logo_local_path": "logo_imgs/regexp.png",
+    "detail_page_url": "https://tool.browser.qq.com/regexp.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:14.042811",
+    "status": "todo"
+  },
+  {
+    "id": "rb73bf_yaml_2_json",
+    "name": "YAML/JSON互相转换",
+    "tool_intro_usage": "YAML/JSON互相转换是一款易于使用的在线工具，将YAML格式的文件转换为JSON格式，便于管理和传播，它可以轻松实现JSON与YAML数据转化，操作简单，适合对数据操作传播校验有需求的用户。1、根据需要，选择您希望进行的转换方向，可以选择“YAML转JSON”或“JSON转YAML”。2、 在输入框中输入或粘贴您希望转换的YAML或JSON数据内容。3、点击相应的按钮，工具会自动将输入的数据进行转换，并显示转换后的结果。4、 在结果区域查看转换后的数据内容。您可以根据需要复制结果，或进行进一步的编辑和使用。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_jm4NlueoBjd.png",
+    "logo_local_path": "logo_imgs/yaml_2_json.png",
+    "detail_page_url": "https://tool.browser.qq.com/yaml_2_json.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:17.228284",
+    "status": "todo"
+  },
+  {
+    "id": "d79a5c_useragent",
+    "name": "UA解析",
+    "tool_intro_usage": "userAgent工具可以帮助您查看和分析浏览器的User-Agent字符串。通过这款工具，您可以轻松获取当前浏览器的User-Agent信息，了解浏览器类型、版本、操作系统等详细信息，便于进行网页开发、调试和兼容性测试。1、工具页面会自动显示当前浏览器的User-Agent字符串。您无需输入任何信息，页面会直接显示结果。2、 在结果区域查看User-Agent字符串的详细信息。工具会解析并显示以下内容：浏览器名称和版本操作系统名称和版本设备类型（如桌面、移动设备、平板等）3、 如果需要，您可以复制User-Agent字符串或解析后的详细信息，进行进一步的使用和处理。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_a0t8SFn18Fh.png",
+    "logo_local_path": "logo_imgs/useragent.png",
+    "detail_page_url": "https://tool.browser.qq.com/useragent.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:20.315065",
+    "status": "todo"
+  },
+  {
+    "id": "jjvl1s_compilation",
+    "name": "开发语言输出hello world",
+    "tool_intro_usage": "开发语言输出Hello World工具可以帮助您快速生成多种编程语言的“Hello, World!”示例代码。通过这款工具，您可以轻松获取不同编程语言的基本语法，适用于编程学习、教学和参考等场景。使用方法：在输入框输入文字，点击”生成“按钮，工具会帮助您输出多种编程语言。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_Hn35h7GFAKp.png",
+    "logo_local_path": "logo_imgs/compilation.png",
+    "detail_page_url": "https://tool.browser.qq.com/compilation.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:23.411480",
+    "status": "todo"
+  },
+  {
+    "id": "7ob6tl_uuid",
+    "name": "uuid生成",
+    "tool_intro_usage": "UUID生成工具是一款免费的在线加密工具，这款工具采用了最先进的技术，提供了一种高效且安全的加密解决方案，可以帮助用户快速方便地生成自己独特的标识符，用于个人隐私和认证的目的。适合对有隐私要求的用户。1、根据需要，选择您希望生成的UUID数量。2、根据需要，选择您希望大写还是小写。3、点击“生成”按钮，工具会自动生成符合UUID标准的标识符，并显示在结果区域。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_-01Gu2Ip0Oy.png",
+    "logo_local_path": "logo_imgs/uuid.png",
+    "detail_page_url": "https://tool.browser.qq.com/uuid.html",
+    "category": "develop",
+    "crawled_at": "2026-05-05T00:35:26.506813",
+    "status": "todo"
+  },
+  {
+    "id": "viqo5t_screen_record",
+    "name": "在线录屏",
+    "tool_intro_usage": "在线录屏，支持录制指定浏览器标签页、指定窗口以及整个屏幕",
+    "tags": [
+      "new"
+    ],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_ZmSkjfNIsPZ.png",
+    "logo_local_path": "logo_imgs/screen_record.png",
+    "detail_page_url": "https://tool.browser.qq.com/screen_record.html",
+    "category": "video",
+    "crawled_at": "2026-05-05T00:35:29.606932",
+    "status": "todo"
+  },
+  {
+    "id": "r3hje0_video_2_gif",
+    "name": "视频转gif",
+    "tool_intro_usage": "视频转GIF是一款实用的在线工具，专为将视频文件转换为GIF动画而设计。通过这款工具，您可以轻松将视频中的精彩片段提取并转换为GIF格式，便于在社交媒体、聊天应用和其他平台上分享和使用。1、点击“选择文件”按钮，选择您希望转换的视频文件（如MP4、AVI、MOV等），或将文件拖放到指定区域。2、 点击“转换”按钮，工具会自动处理视频并生成GIF动画。3、 转换完成后，工具会显示生成的GIF动画预览。您可以查看效果，确认满意后，点击“下载”按钮，将生成的GIF文件保存到您的设备。",
+    "tags": [],
+    "logo_url": "https://m4.publicimg.browser.qq.com/imgUpload/qbtool.t_tool_info/b91aa2df_sAXRKg5B-yj.png",
+    "logo_local_path": "logo_imgs/video_2_gif.png",
+    "detail_page_url": "https://tool.browser.qq.com/video_2_gif.html",
+    "category": "video",
+    "crawled_at": "2026-05-05T00:35:32.701978",
+    "status": "todo"
+  }
+]

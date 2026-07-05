@@ -1,0 +1,9 @@
+tools.blockth.ink {
+    reverse_proxy http://quick-tools:5175
+
+    header {
+        X-Real-IP {remote_host}
+        X-Forwarded-For {remote_host}
+        X-Forwarded-Proto {scheme}
+    }
+}

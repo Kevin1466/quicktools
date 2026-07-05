@@ -1,0 +1,36 @@
+services:
+  quick-tools:
+    build: .
+    container_name: quick-tools
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      PORT: "5175"
+      FEEDBACK_DB_PATH: /data/feedback.sqlite
+    volumes:
+      - ./data:/data
+    networks:
+      - quick-tools-network
+
+  caddy:
+    image: m.daocloud.io/docker.io/library/caddy:alpine
+    container_name: quick-tools-caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - ./caddy_data:/data
+      - ./caddy_config:/config
+    depends_on:
+      - quick-tools
+    networks:
+      - quick-tools-network
+
+networks:
+  quick-tools-network:
+    external: true
+
