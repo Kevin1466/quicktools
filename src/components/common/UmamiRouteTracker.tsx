@@ -17,34 +17,39 @@ const UmamiRouteTracker: React.FC = () => {
     lastTrackKey = key
     lastTrackAt = now
 
-    umamiTrackPageView(url, document.title)
+    // Delay slightly to ensure SeoHead has updated document.title
+    const timer = setTimeout(() => {
+      umamiTrackPageView(url, document.title)
 
-    const toolMatch = location.pathname.match(/^\/tool\/([^/]+)$/)
-    if (toolMatch) {
-      const toolId = toolMatch[1]
-      const tool = getToolById(toolId)
-      umamiTrackEvent('tool_open', {
-        toolId,
-        category: tool?.category,
-      })
-      return
-    }
+      const toolMatch = location.pathname.match(/^\/tool\/([^/]+)$/)
+      if (toolMatch) {
+        const toolId = toolMatch[1]
+        const tool = getToolById(toolId)
+        umamiTrackEvent('tool_open', {
+          toolId,
+          category: tool?.category,
+        })
+        return
+      }
 
-    const categoryMatch = location.pathname.match(/^\/category\/([^/]+)$/)
-    if (categoryMatch) {
-      umamiTrackEvent('category_open', { categoryId: categoryMatch[1] })
-      return
-    }
+      const categoryMatch = location.pathname.match(/^\/category\/([^/]+)$/)
+      if (categoryMatch) {
+        umamiTrackEvent('category_open', { categoryId: categoryMatch[1] })
+        return
+      }
 
-    if (location.pathname === '/') {
-      umamiTrackEvent('home_open')
-      return
-    }
+      if (location.pathname === '/') {
+        umamiTrackEvent('home_open')
+        return
+      }
 
-    if (location.pathname === '/search') {
-      const query = new URLSearchParams(location.search).get('q') || ''
-      umamiTrackEvent('search_open', { qlen: query.length })
-    }
+      if (location.pathname === '/search') {
+        const query = new URLSearchParams(location.search).get('q') || ''
+        umamiTrackEvent('search_open', { qlen: query.length })
+      }
+    }, 50)
+
+    return () => clearTimeout(timer)
   }, [location.pathname, location.search])
 
   return null

@@ -80,15 +80,10 @@ export const umamiTrackPageView = (url?: string, title?: string) => {
     const tracker = window.umami
     if (!tracker) return
 
-    if (!url && !title) {
-      tracker.track()
-      return
-    }
-
     tracker.track((props) => ({
       ...props,
-      ...(url ? { url } : null),
-      ...(title ? { title } : null),
+      url: url || window.location.pathname + window.location.search,
+      title: title || document.title,
     }))
   })
 }
@@ -98,10 +93,12 @@ export const umamiTrackEvent = (eventName: string, data?: Record<string, unknown
     const tracker = window.umami
     if (!tracker) return
 
-    if (data) {
-      tracker.track(eventName, data)
-      return
-    }
-    tracker.track(eventName)
+    tracker.track((props) => ({
+      ...props,
+      name: eventName,
+      data: data || {},
+      url: window.location.pathname + window.location.search,
+      title: document.title,
+    }))
   })
 }
