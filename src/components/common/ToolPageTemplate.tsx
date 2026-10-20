@@ -146,8 +146,8 @@ const ToolPageTemplate: React.FC<ToolPageTemplateProps> = ({
 
       <div className="mt-8 space-y-8">
         {showIntroSection && (
-          <div className="bg-white rounded-xl shadow-sm p-6">
-            <h3 className="text-lg font-bold text-gray-900 mb-4">工具介绍及使用方法</h3>
+          <section className="bg-white rounded-xl shadow-sm p-6">
+            <h2 className="text-lg font-bold text-gray-900 mb-4">工具介绍及使用方法</h2>
             <div className="text-gray-600 space-y-3">
               {toolIntroData.intro && (
                 <p className="text-sm leading-relaxed">
@@ -164,18 +164,18 @@ const ToolPageTemplate: React.FC<ToolPageTemplateProps> = ({
                 </div>
               )}
             </div>
-          </div>
+          </section>
         )}
 
         {showRecommendSection && recommendedTools.length > 0 && (
-          <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-4 text-center">更多推荐</h3>
+          <section>
+            <h2 className="text-lg font-bold text-gray-900 mb-4 text-center">更多推荐</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {recommendedTools.map((recTool) => (
                 <ToolRecommendationCard key={recTool.id} tool={recTool} />
               ))}
             </div>
-          </div>
+          </section>
         )}
       </div>
     </div>

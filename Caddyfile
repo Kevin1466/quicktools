@@ -7,3 +7,13 @@ tools.blockth.ink {
         X-Forwarded-Proto {scheme}
     }
 }
+
+mbti.blockth.ink {
+    reverse_proxy http://172.17.0.1:8788
+
+    header {
+        X-Real-IP {remote_host}
+        X-Forwarded-For {remote_host}
+        X-Forwarded-Proto {scheme}
+    }
+}

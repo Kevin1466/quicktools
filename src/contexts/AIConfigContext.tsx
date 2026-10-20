@@ -1,4 +1,4 @@
-import { createContext, useContext, ReactNode, useState, useCallback, useEffect } from 'react'
+import { createContext, useContext, ReactNode, useState, useCallback, useEffect, useRef } from 'react'
 
 export interface ServiceConfig {
   apiKey: string
@@ -27,18 +27,20 @@ interface AIConfigContextType {
   closeModal: () => void
 }
 
+const viteEnv = ((typeof import.meta !== 'undefined' && import.meta.env) ? import.meta.env : {}) as Record<string, string | undefined>
+
 const defaultConfig: AIConfig = {
   volc: {
-    apiKey: import.meta.env.VITE_VOLC_API_KEY || '',
-    baseUrl: import.meta.env.VITE_VOLC_BASE_URL || 'https://ark.cn-beijing.volces.com/api/v3',
-    modelText: import.meta.env.VITE_VOLC_MODEL_TEXT || 'dove-stone/doubao-seed-2-0-lite-260428',
-    modelVision: import.meta.env.VITE_VOLC_MODEL_VISION || 'dove-stone/doubao-seed-1-6-vision-250815',
-    modelImage: import.meta.env.VITE_VOLC_MODEL_IMAGE || 'dove-stone/doubao-seedream-5-0-260128',
+    apiKey: viteEnv.VITE_VOLC_API_KEY || '',
+    baseUrl: viteEnv.VITE_VOLC_BASE_URL || 'https://ark.cn-beijing.volces.com/api/v3',
+    modelText: viteEnv.VITE_VOLC_MODEL_TEXT || 'dove-stone/doubao-seed-2-0-lite-260428',
+    modelVision: viteEnv.VITE_VOLC_MODEL_VISION || 'dove-stone/doubao-seed-1-6-vision-250815',
+    modelImage: viteEnv.VITE_VOLC_MODEL_IMAGE || 'dove-stone/doubao-seedream-5-0-260128',
   },
   silicon: {
-    apiKey: import.meta.env.VITE_SILICON_API_KEY || '',
-    baseUrl: import.meta.env.VITE_SILICON_BASE_URL || 'https://api.siliconflow.cn/v1',
-    modelOcr: import.meta.env.VITE_SILICON_MODEL_OCR || 'PaddlePaddle/PaddleOCR-VL-1.5',
+    apiKey: viteEnv.VITE_SILICON_API_KEY || '',
+    baseUrl: viteEnv.VITE_SILICON_BASE_URL || 'https://api.siliconflow.cn/v1',
+    modelOcr: viteEnv.VITE_SILICON_MODEL_OCR || 'PaddlePaddle/PaddleOCR-VL-1.5',
   },
 }
 
@@ -49,26 +51,45 @@ interface AIConfigProviderProps {
 }
 
 export const AIConfigProvider: React.FC<AIConfigProviderProps> = ({ children }) => {
-  const [config, setConfig] = useState<AIConfig>(() => {
-    const stored = localStorage.getItem('ai_config')
-    if (stored) {
-      try {
-        const parsed = JSON.parse(stored)
-        return {
-          volc: { ...defaultConfig.volc, ...(parsed.volc || {}) },
-          silicon: { ...defaultConfig.silicon, ...(parsed.silicon || {}) }
-        }
-      } catch (e) {
-        return defaultConfig
-      }
-    }
-    return defaultConfig
-  })
+  const [config, setConfig] = useState<AIConfig>(defaultConfig)
+  const hasLoadedConfigRef = useRef(false)
   
   const [isModalOpen, setIsModalOpen] = useState(false)
 
   useEffect(() => {
-    localStorage.setItem('ai_config', JSON.stringify(config))
+    if (typeof window === 'undefined') {
+      return
+    }
+
+    const stored = window.localStorage.getItem('ai_config')
+    if (!stored) {
+      hasLoadedConfigRef.current = true
+      return
+    }
+
+    try {
+      const parsed = JSON.parse(stored)
+      setConfig({
+        volc: { ...defaultConfig.volc, ...(parsed.volc || {}) },
+        silicon: { ...defaultConfig.silicon, ...(parsed.silicon || {}) }
+      })
+    } catch (e) {
+      // ignore invalid local storage payload and keep defaults
+    } finally {
+      hasLoadedConfigRef.current = true
+    }
+  }, [])
+
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return
+    }
+
+    if (!hasLoadedConfigRef.current) {
+      return
+    }
+
+    window.localStorage.setItem('ai_config', JSON.stringify(config))
   }, [config])
 
   const updateConfig = useCallback((newConfig: Partial<AIConfig>) => {

@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import type { Tool } from '@/types'
 import ActionButton from '@/components/common/ActionButton'
 
-type LifeToolType = 'whattoeat' | 'random' | 'bloodtype' | 'led' | 'emoji' | 'nickname' | 'poetry'
+type LifeToolType = 'whattoeat' | 'random' | 'bloodtype' | 'led' | 'emoji' | 'nickname' | 'poetry' | 'unknown'
 
 const getToolType = (tool: Tool): LifeToolType => {
   const id = tool.id.toLowerCase()
@@ -13,7 +13,7 @@ const getToolType = (tool: Tool): LifeToolType => {
   if (id.includes('emoji') || id.includes('颜艺') || id.includes('颜文字')) return 'emoji'
   if (id.includes('nick') || id.includes('name') || id.includes('取名') || id.includes('网名')) return 'nickname'
   if (id.includes('poetry') || id.includes('poem') || id.includes('诗词') || id.includes('古诗')) return 'poetry'
-  return 'whattoeat'
+  return 'unknown'
 }
 
 // 今天吃什么数据

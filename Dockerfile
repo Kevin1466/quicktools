@@ -20,7 +20,7 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm ci --registry=https://registry.npmmirror.com
 COPY . .
-RUN npm run build && npm run build:api && rm -rf node_modules && npm ci --omit=dev --registry=https://registry.npmmirror.com
+RUN npm run build && npm run build:api && npm prune --omit=dev
 
 ENV PORT=5175
 ENV FEEDBACK_DB_PATH=/data/feedback.sqlite

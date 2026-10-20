@@ -1,4 +1,5 @@
 import express from 'express'
+import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { insertFeedback, listFeedback, type FeedbackType } from './db.js'
@@ -73,14 +74,30 @@ app.get('/api/feedback/recent', (req, res) => {
 })
 
 const distDir = path.resolve(__dirname, '../dist')
-app.use(express.static(distDir))
+app.use(express.static(distDir, { redirect: false }))
 
 app.get(/.*/, (req, res) => {
   if (req.path.startsWith('/api')) {
     res.status(404).json({ ok: false, message: 'Not Found' })
     return
   }
-  res.sendFile(path.join(distDir, 'index.html'))
+  const normalizedPath = req.path === '/' ? '' : req.path.replace(/^\/+|\/+$/g, '')
+  const prerenderedHtmlPath = normalizedPath
+    ? path.join(distDir, normalizedPath, 'index.html')
+    : path.join(distDir, 'index.html')
+
+  if (fs.existsSync(prerenderedHtmlPath)) {
+    res.sendFile(prerenderedHtmlPath)
+    return
+  }
+
+  const notFoundHtmlPath = path.join(distDir, '404.html')
+  if (fs.existsSync(notFoundHtmlPath)) {
+    res.status(404).sendFile(notFoundHtmlPath)
+    return
+  }
+
+  res.status(404).type('html').send('<h1>404</h1><p>Page Not Found</p>')
 })
 
 const port = Number(process.env.PORT || 5175)

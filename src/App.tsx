@@ -80,7 +80,6 @@ import ChengyuDaquanTool from './pages/tools/education/ChengyuDaquanTool'
 import MarkmapTool from './pages/tools/education/MarkmapTool'
 import RelativesNameTool from './pages/tools/education/RelativesNameTool'
 import HanziFayinTool from './pages/tools/education/HanziFayinTool'
-import HandwritingErasure from './pages/tools/education/HandwritingErasure'
 import TranslateTool from './pages/tools/education/TranslateTool'
 import WhatToEat from './pages/tools/life/WhatToEat'
 import RandomTool from './pages/tools/life/RandomTool'
@@ -102,9 +101,9 @@ import MakeNameTool from './pages/tools/life/MakeNameTool'
 import HospitalRecommendTool from './pages/tools/life/HospitalRecommendTool'
 import NamingTool from './pages/tools/life/NamingTool'
 import CaloriesListTool from './pages/tools/life/CaloriesListTool'
+import ContractVerificationTool from './pages/tools/life/ContractVerificationTool'
 import KuaidiTool from './pages/tools/life/KuaidiTool'
 import ScreenRecord from './pages/tools/video/ScreenRecord'
-import VideoToGif from './pages/tools/video/VideoToGif'
 import ImgToPdf from './pages/tools/pdf/ImgToPdf'
 import PdfMerge from './pages/tools/pdf/PdfMerge'
 import PdfSplit from './pages/tools/pdf/PdfSplit'
@@ -132,8 +131,6 @@ import PptToPdf from './pages/tools/doc/PptToPdf'
 import ExcelConvert from './pages/tools/doc/ExcelConvert'
 import TableRecognize from './pages/tools/doc/TableRecognize'
 import WordScan from './pages/tools/doc/WordScan'
-import FileScanTool from './pages/tools/develop/FileScanTool'
-import AppInspectorTool from './pages/tools/develop/AppInspectorTool'
 import GenericToolPage from './pages/tools/GenericToolPage'
 import { AIConfigProvider, useAIConfigContext } from './contexts/AIConfigContext'
 import AIConfigModal from './components/common/AIConfigModal'
@@ -142,7 +139,10 @@ import FeedbackModal from './components/common/FeedbackModal'
 import { ExchangeProvider, useExchangeContext } from './contexts/ExchangeContext'
 import ExchangeModal from './components/common/ExchangeModal'
 import UmamiRouteTracker from './components/common/UmamiRouteTracker'
+import SeoHead from './components/common/SeoHead'
+import ScrollToTop from './components/common/ScrollToTop'
 import { tools } from './data/toolsFromJson'
+import { structuredOcrToolComponents } from './pages/tools/img/structuredOcrTools'
 
 const toolComponents: Record<string, React.ComponentType> = {
   'image-compress': ImageCompress,
@@ -222,7 +222,6 @@ const toolComponents: Record<string, React.ComponentType> = {
   'markmap': MarkmapTool,
   'relatives-name': RelativesNameTool,
   'hanzifayin': HanziFayinTool,
-  'handwriting-erasure': HandwritingErasure,
   'translate': TranslateTool,
   'whattoeat': WhatToEat,
   'random': RandomTool,
@@ -243,10 +242,10 @@ const toolComponents: Record<string, React.ComponentType> = {
   'makename': MakeNameTool,
   'hospitalrecommend': HospitalRecommendTool,
   'naming': NamingTool,
-  'calories_list': CaloriesListTool,
+  'calories-list': CaloriesListTool,
+  'contract-verification': ContractVerificationTool,
   'kuaidi': KuaidiTool,
   'screen-record': ScreenRecord,
-  'video-2-gif': VideoToGif,
   'img-2-pdf-convert': ImgToPdf,
   'pdf-merge': PdfMerge,
   'pdf-split': PdfSplit,
@@ -274,8 +273,7 @@ const toolComponents: Record<string, React.ComponentType> = {
   'excel-convert': ExcelConvert,
   'table-recognize': TableRecognize,
   'word-scan': WordScan,
-  'file-scan': FileScanTool,
-  'app-inspector': AppInspectorTool,
+  ...structuredOcrToolComponents,
 }
 
 const ToolPage = ({ toolId }: { toolId: string }) => {
@@ -299,6 +297,8 @@ function AppContent() {
   
   return (
     <Layout>
+      <SeoHead />
+      <ScrollToTop />
       <UmamiRouteTracker />
       <Routes>
         <Route path="/" element={<HomePage />} />

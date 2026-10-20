@@ -48,7 +48,7 @@ const caloriesData: Record<string, FoodItem[]> = {
 }
 
 const CaloriesListTool: React.FC = () => {
-  const tool = getToolById('calories_list')
+  const tool = getToolById('calories-list')
   const [selectedCategory, setSelectedCategory] = useState<string>('主食类')
 
   if (!tool) return null

@@ -8,6 +8,7 @@ const CategoryPage: React.FC = () => {
   const { categoryId } = useParams<{ categoryId: string }>()
   const category = getCategoryById(categoryId || '')
   const tools = getToolsByCategory(categoryId || 'all')
+  const availableTools = tools.filter(tool => tool.status === 'done').length
 
   if (!category) {
     return (
@@ -30,7 +31,13 @@ const CategoryPage: React.FC = () => {
         {category.description && (
           <p className="text-gray-600">{category.description}</p>
         )}
-        <p className="text-sm text-gray-500 mt-2">共 {tools.length} 个工具</p>
+        <p className="text-sm text-gray-500 mt-2">
+          共 {tools.length} 个工具，其中 {availableTools} 个已可直接在线使用
+        </p>
+        <p className="text-sm leading-6 text-gray-600 mt-3">
+          本页聚合了与“{category.name}”相关的在线工具，适合快速完成常见的处理、转换、校验或创作任务。
+          无需安装软件，打开浏览器即可开始使用。
+        </p>
       </div>
 
       {tools.length > 0 ? (
